@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Projects\\AF2024\\Client\\ActivosFiljos.Client.csproj": {}
+    "S:\\Projects\\ActivosFijos\\Client\\ActivosFiljos.Client.csproj": {}
   },
   "projects": {
-    "S:\\Projects\\AF2024\\Client\\ActivosFiljos.Client.csproj": {
+    "S:\\Projects\\ActivosFijos\\Client\\ActivosFiljos.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Projects\\AF2024\\Client\\ActivosFiljos.Client.csproj",
+        "projectUniqueName": "S:\\Projects\\ActivosFijos\\Client\\ActivosFiljos.Client.csproj",
         "projectName": "ActivosFiljos.Client",
-        "projectPath": "S:\\Projects\\AF2024\\Client\\ActivosFiljos.Client.csproj",
+        "projectPath": "S:\\Projects\\ActivosFijos\\Client\\ActivosFiljos.Client.csproj",
         "packagesPath": "C:\\Users\\GlennTosco\\.nuget\\packages\\",
-        "outputPath": "S:\\Projects\\AF2024\\Client\\obj\\",
+        "outputPath": "S:\\Projects\\ActivosFijos\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

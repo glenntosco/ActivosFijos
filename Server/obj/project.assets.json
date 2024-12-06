@@ -6292,11 +6292,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\Projects\\AF2024\\Server\\ActivosFiljos.Server.csproj",
+      "projectUniqueName": "S:\\Projects\\ActivosFijos\\Server\\ActivosFiljos.Server.csproj",
       "projectName": "ActivosFiljos.Server",
-      "projectPath": "S:\\Projects\\AF2024\\Server\\ActivosFiljos.Server.csproj",
+      "projectPath": "S:\\Projects\\ActivosFijos\\Server\\ActivosFiljos.Server.csproj",
       "packagesPath": "C:\\Users\\GlennTosco\\.nuget\\packages\\",
-      "outputPath": "S:\\Projects\\AF2024\\Server\\obj\\",
+      "outputPath": "S:\\Projects\\ActivosFijos\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -6319,8 +6319,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "S:\\Projects\\AF2024\\Client\\ActivosFiljos.Client.csproj": {
-              "projectPath": "S:\\Projects\\AF2024\\Client\\ActivosFiljos.Client.csproj"
+            "S:\\Projects\\ActivosFijos\\Client\\ActivosFiljos.Client.csproj": {
+              "projectPath": "S:\\Projects\\ActivosFijos\\Client\\ActivosFiljos.Client.csproj"
             }
           }
         }

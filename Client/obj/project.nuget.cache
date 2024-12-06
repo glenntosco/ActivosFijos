@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bhg4W3j4h2I=",
+  "dgSpecHash": "v9DFxQf5C34=",
   "success": true,
-  "projectFilePath": "S:\\Projects\\AF2024\\Client\\ActivosFiljos.Client.csproj",
+  "projectFilePath": "S:\\Projects\\ActivosFijos\\Client\\ActivosFiljos.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GlennTosco\\.nuget\\packages\\dartsassbuilder\\1.0.0\\dartsassbuilder.1.0.0.nupkg.sha512",
     "C:\\Users\\GlennTosco\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
