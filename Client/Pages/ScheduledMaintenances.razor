@@ -1,0 +1,51 @@
+@page "/scheduled-maintenances"
+
+<PageTitle>ScheduledMaintenances</PageTitle>
+<RadzenStack>
+    <RadzenRow AlignItems="AlignItems.Center">
+        <RadzenColumn Size="12" SizeMD="6">
+            <RadzenText Text="ScheduledMaintenances" TextStyle="TextStyle.H3" TagName="TagName.H1" style="margin: 0" />
+        </RadzenColumn>
+        <RadzenColumn Size="12" SizeMD="6">
+            <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.End" Gap="0.5rem">
+                <RadzenSplitButton Icon="get_app" Text="Export" Click="@ExportClick" Variant="Variant.Flat" Shade="Shade.Lighter">
+                    <RadzenSplitButtonItem Text="Excel" Value="xlsx" />
+                    <RadzenSplitButtonItem Text="CSV" Value="csv" />
+                </RadzenSplitButton>
+                <RadzenButton Icon="add_circle_outline" Text="Add" Click="@AddButtonClick" Variant="Variant.Flat" />
+            </RadzenStack>
+        </RadzenColumn>
+    </RadzenRow>
+    <RadzenTextBox Placeholder="Search ..." style="display: block; width: 100%" @oninput="@Search" aria-label="Search by all string columns" />
+    <RadzenRow>
+      <RadzenColumn SizeMD=12>
+        <RadzenDataGrid @ref="grid0" ColumnWidth="200px"   AllowFiltering="true" FilterMode="FilterMode.Advanced" AllowPaging="true" AllowSorting="true" ShowPagingSummary="true" PageSizeOptions=@(new int[]{5, 10, 20, 30})
+            Data="@scheduledMaintenances" LoadData="@Grid0LoadData" Count="@count" TItem="ActivosFiljos.Server.Models.FixedAssetsDB.ScheduledMaintenance" RowDoubleClick="@EditRow">
+            <Columns>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.ScheduledMaintenance" Property="ScheduleId" Title="Schedule Id">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.ScheduledMaintenance" Property="FixedAsset.AssetTag" Title="Fixed Asset">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.ScheduledMaintenance" Property="MaintenanceFrequency" Title="Maintenance Frequency">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.ScheduledMaintenance" Property="NextScheduledDate" Title="Next Scheduled Date">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.ScheduledMaintenance" Property="CreatedAt" Title="Created At">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.ScheduledMaintenance" Property="UpdatedAt" Title="Updated At">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.ScheduledMaintenance" Filterable="false" Sortable="false" Width="70px" TextAlign="TextAlign.Center">
+                    <Template Context="scheduledMaintenance">
+
+                        <RadzenButton ButtonStyle="ButtonStyle.Danger" Icon="delete" Size="ButtonSize.Medium"
+                            Shade="Shade.Lighter" Variant="Variant.Flat"
+                            Click=@(args => GridDeleteButtonClick(args, scheduledMaintenance)) @onclick:stopPropagation="true" />
+                    </Template>
+                </RadzenDataGridColumn>
+            </Columns>
+
+        </RadzenDataGrid>
+
+    </RadzenColumn>
+  </RadzenRow>
+</RadzenStack>

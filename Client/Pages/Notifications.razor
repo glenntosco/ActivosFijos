@@ -1,0 +1,53 @@
+@page "/notifications"
+
+<PageTitle>Notifications</PageTitle>
+<RadzenStack>
+    <RadzenRow AlignItems="AlignItems.Center">
+        <RadzenColumn Size="12" SizeMD="6">
+            <RadzenText Text="Notifications" TextStyle="TextStyle.H3" TagName="TagName.H1" style="margin: 0" />
+        </RadzenColumn>
+        <RadzenColumn Size="12" SizeMD="6">
+            <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.End" Gap="0.5rem">
+                <RadzenSplitButton Icon="get_app" Text="Export" Click="@ExportClick" Variant="Variant.Flat" Shade="Shade.Lighter">
+                    <RadzenSplitButtonItem Text="Excel" Value="xlsx" />
+                    <RadzenSplitButtonItem Text="CSV" Value="csv" />
+                </RadzenSplitButton>
+                <RadzenButton Icon="add_circle_outline" Text="Add" Click="@AddButtonClick" Variant="Variant.Flat" />
+            </RadzenStack>
+        </RadzenColumn>
+    </RadzenRow>
+    <RadzenTextBox Placeholder="Search ..." style="display: block; width: 100%" @oninput="@Search" aria-label="Search by all string columns" />
+    <RadzenRow>
+      <RadzenColumn SizeMD=12>
+        <RadzenDataGrid @ref="grid0" ColumnWidth="200px"   AllowFiltering="true" FilterMode="FilterMode.Advanced" AllowPaging="true" AllowSorting="true" ShowPagingSummary="true" PageSizeOptions=@(new int[]{5, 10, 20, 30})
+            Data="@notifications" LoadData="@Grid0LoadData" Count="@count" TItem="ActivosFiljos.Server.Models.FixedAssetsDB.Notification" RowDoubleClick="@EditRow">
+            <Columns>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.Notification" Property="NotificationId" Title="Notification Id">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.Notification" Property="User.FirstName" Title="User">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.Notification" Property="FixedAsset.AssetTag" Title="Fixed Asset">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.Notification" Property="NotificationType" Title="Notification Type">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.Notification" Property="Message" Title="Message">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.Notification" Property="IsRead" Title="Is Read">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.Notification" Property="CreatedAt" Title="Created At">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.Notification" Filterable="false" Sortable="false" Width="70px" TextAlign="TextAlign.Center">
+                    <Template Context="notification">
+
+                        <RadzenButton ButtonStyle="ButtonStyle.Danger" Icon="delete" Size="ButtonSize.Medium"
+                            Shade="Shade.Lighter" Variant="Variant.Flat"
+                            Click=@(args => GridDeleteButtonClick(args, notification)) @onclick:stopPropagation="true" />
+                    </Template>
+                </RadzenDataGridColumn>
+            </Columns>
+
+        </RadzenDataGrid>
+
+    </RadzenColumn>
+  </RadzenRow>
+</RadzenStack>

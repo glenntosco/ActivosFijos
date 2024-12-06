@@ -1,0 +1,69 @@
+@page "/fixed-assets"
+
+<PageTitle>FixedAssets</PageTitle>
+<RadzenStack>
+    <RadzenRow AlignItems="AlignItems.Center">
+        <RadzenColumn Size="12" SizeMD="6">
+            <RadzenText Text="FixedAssets" TextStyle="TextStyle.H3" TagName="TagName.H1" style="margin: 0" />
+        </RadzenColumn>
+        <RadzenColumn Size="12" SizeMD="6">
+            <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.End" Gap="0.5rem">
+                <RadzenSplitButton Icon="get_app" Text="Export" Click="@ExportClick" Variant="Variant.Flat" Shade="Shade.Lighter">
+                    <RadzenSplitButtonItem Text="Excel" Value="xlsx" />
+                    <RadzenSplitButtonItem Text="CSV" Value="csv" />
+                </RadzenSplitButton>
+                <RadzenButton Icon="add_circle_outline" Text="Add" Click="@AddButtonClick" Variant="Variant.Flat" />
+            </RadzenStack>
+        </RadzenColumn>
+    </RadzenRow>
+    <RadzenTextBox Placeholder="Search ..." style="display: block; width: 100%" @oninput="@Search" aria-label="Search by all string columns" />
+    <RadzenRow>
+      <RadzenColumn SizeMD=12>
+        <RadzenDataGrid @ref="grid0" ColumnWidth="200px"   AllowFiltering="true" FilterMode="FilterMode.Advanced" AllowPaging="true" AllowSorting="true" ShowPagingSummary="true" PageSizeOptions=@(new int[]{5, 10, 20, 30})
+            Data="@fixedAssets" LoadData="@Grid0LoadData" Count="@count" TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" RowDoubleClick="@EditRow">
+            <Columns>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetId" Title="Asset Id">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetTag" Title="Asset Tag">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetName" Title="Asset Name">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetCategory.CategoryName" Title="Asset Category">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="Location.LocationName" Title="Location">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="User.FirstName" Title="User">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="PurchaseDate" Title="Purchase Date">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="PurchaseCost" Title="Purchase Cost">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="Manufacturer" Title="Manufacturer">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="Model" Title="Model">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="SerialNumber" Title="Serial Number">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="Status.StatusName" Title="Status">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="WarrantyExpiry" Title="Warranty Expiry">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="CreatedAt" Title="Created At">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="UpdatedAt" Title="Updated At">
+                </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Filterable="false" Sortable="false" Width="70px" TextAlign="TextAlign.Center">
+                    <Template Context="fixedAsset">
+
+                        <RadzenButton ButtonStyle="ButtonStyle.Danger" Icon="delete" Size="ButtonSize.Medium"
+                            Shade="Shade.Lighter" Variant="Variant.Flat"
+                            Click=@(args => GridDeleteButtonClick(args, fixedAsset)) @onclick:stopPropagation="true" />
+                    </Template>
+                </RadzenDataGridColumn>
+            </Columns>
+
+        </RadzenDataGrid>
+
+    </RadzenColumn>
+  </RadzenRow>
+</RadzenStack>
