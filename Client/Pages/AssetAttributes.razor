@@ -22,8 +22,6 @@
         <RadzenDataGrid @ref="grid0" ColumnWidth="200px"   AllowFiltering="true" FilterMode="FilterMode.Advanced" AllowPaging="true" AllowSorting="true" ShowPagingSummary="true" PageSizeOptions=@(new int[]{5, 10, 20, 30})
             Data="@assetAttributes" LoadData="@Grid0LoadData" Count="@count" TItem="ActivosFiljos.Server.Models.FixedAssetsDB.AssetAttribute" RowDoubleClick="@EditRow">
             <Columns>
-                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.AssetAttribute" Property="AttributeId" Title="Attribute Id">
-                </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.AssetAttribute" Property="AttributeName" Title="Attribute Name">
                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.AssetAttribute" Property="AssetCategory.CategoryName" Title="Asset Category">
