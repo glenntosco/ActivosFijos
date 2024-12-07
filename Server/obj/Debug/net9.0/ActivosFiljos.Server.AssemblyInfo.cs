@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActivosFiljos.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85f39aa42a01d8733189132b87e0f428a621f5a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b16a72a2cf64dc915f46bf0fbf75bb47e366dadc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActivosFiljos.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActivosFiljos.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

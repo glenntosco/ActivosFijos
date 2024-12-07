@@ -1,63 +1,63 @@
 {
   "Files": [
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\css\\fluent-base.css",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\css\\fluent-base.css",
       "PackagePath": "staticwebassets\\css\\fluent-base.css"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\css\\fluent-dark-base.css",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\css\\fluent-dark-base.css",
       "PackagePath": "staticwebassets\\css\\fluent-dark-base.css"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\css\\site.css",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\favicon.ico",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\fonts\\MaterialSymbolsOutlined.woff2",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\fonts\\MaterialSymbolsOutlined.woff2",
       "PackagePath": "staticwebassets\\fonts\\MaterialSymbolsOutlined.woff2"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\fonts\\RobotoFlex.woff2",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\fonts\\RobotoFlex.woff2",
       "PackagePath": "staticwebassets\\fonts\\RobotoFlex.woff2"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\fonts\\SourceSans3VF-Italic.ttf.woff2",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\fonts\\SourceSans3VF-Italic.ttf.woff2",
       "PackagePath": "staticwebassets\\fonts\\SourceSans3VF-Italic.ttf.woff2"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\fonts\\SourceSans3VF-Upright.ttf.woff2",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\fonts\\SourceSans3VF-Upright.ttf.woff2",
       "PackagePath": "staticwebassets\\fonts\\SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\icon-512.png",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\icon-512.png",
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\images\\login.jpg",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\images\\login.jpg",
       "PackagePath": "staticwebassets\\images\\login.jpg"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\images\\logo-login.png",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\images\\logo-login.png",
       "PackagePath": "staticwebassets\\images\\logo-login.png"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\manifest.json",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\manifest.json",
       "PackagePath": "staticwebassets\\manifest.json"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\service-worker.js",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\service-worker.js",
       "PackagePath": "staticwebassets\\service-worker.js"
     },
     {
-      "Id": "S:\\Projects\\ActivosFijos\\Server\\wwwroot\\service-worker.published.js",
+      "Id": "C:\\Projects\\AF2024\\ActivosFijos\\Server\\wwwroot\\service-worker.published.js",
       "PackagePath": "staticwebassets\\service-worker.published.js"
     },
     {

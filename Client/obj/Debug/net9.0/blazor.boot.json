@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ActivosFiljos.Client",
   "resources": {
-    "hash": "sha256-9tCl0lPKqikoucRGgcdDdXytDe2gFsQnwfgM/TBgEG0=",
+    "hash": "sha256-3tAFl5iMXoXxvQh99RyIDEv3ZXXkeMKL/iOK5Gp5ILc=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -209,8 +209,10 @@
       "dotnet.native.p4lwlf2bu1.wasm": "dotnet.native.wasm",
       "dotnet.runtime.o8gq1i8bk6.js": "dotnet.runtime.js",
       "icudt.oh1zvcfom8.dat": "icudt.dat",
-      "ActivosFiljos.Client.dxzlinx4o0.wasm": "ActivosFiljos.Client.wasm",
-      "ActivosFiljos.Client.m676atppqp.pdb": "ActivosFiljos.Client.pdb"
+      "ActivosFiljos.Client.x4fnx1th4r.wasm": "ActivosFiljos.Client.wasm",
+      "ActivosFiljos.Client.tw2f7gwrjj.pdb": "ActivosFiljos.Client.pdb",
+      "ActivosFiljos.Client.resources.jl7l3sl78v.wasm": "ActivosFiljos.Client.resources.wasm",
+      "ActivosFiljos.Client.resources.dbsg6jrkpl.wasm": "ActivosFiljos.Client.resources.wasm"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -428,10 +430,18 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "ActivosFiljos.Client.dxzlinx4o0.wasm": "sha256-3zg8FY6ZuBeYcDlSdbfLrLad+aVsOmMC/59jnCaBf5Q="
+      "ActivosFiljos.Client.x4fnx1th4r.wasm": "sha256-YSGA0vjoDSRQ2qGclXMtnxG7Y1ErHHmSZ+ObiPonpps="
     },
     "pdb": {
-      "ActivosFiljos.Client.m676atppqp.pdb": "sha256-3heE3zd8w3gjYtnY3yQCYVlLuDW+cIZ2P6n9A1CdlvM="
+      "ActivosFiljos.Client.tw2f7gwrjj.pdb": "sha256-fSMKbXpVuqULOhhoZdD/QhJqNqEUNwGzHg/liS0btQw="
+    },
+    "satelliteResources": {
+      "en": {
+        "ActivosFiljos.Client.resources.jl7l3sl78v.wasm": "sha256-SQMWkc14ShaeN1ehNy9suy0qHn6R9eO2QJv/b8QTuKw="
+      },
+      "es-PA": {
+        "ActivosFiljos.Client.resources.dbsg6jrkpl.wasm": "sha256-WZUw6HvSYX9szUzuXUJOpVdJUqrCW+d5smRhVIxpBno="
+      }
     }
   },
   "cacheBootResources": true,

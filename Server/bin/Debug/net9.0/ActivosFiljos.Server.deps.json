@@ -1223,6 +1223,14 @@
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
+        },
+        "resources": {
+          "en/ActivosFiljos.Client.resources.dll": {
+            "locale": "en"
+          },
+          "es-PA/ActivosFiljos.Client.resources.dll": {
+            "locale": "es-PA"
+          }
         }
       }
     }

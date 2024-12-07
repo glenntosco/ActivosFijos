@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "y9DEZScp",
+  "version": "+n/eBKwe",
   "assets": [
     {
       "hash": "sha256-kJXKqRCleT/Jk1wJUhUu24r2LAA7IWVYmdoENizE38M=",
@@ -146,12 +146,12 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-3zg8FY6ZuBeYcDlSdbfLrLad+aVsOmMC/59jnCaBf5Q=",
-      "url": "_framework/ActivosFiljos.Client.dxzlinx4o0.wasm"
+      "hash": "sha256-fSMKbXpVuqULOhhoZdD/QhJqNqEUNwGzHg/liS0btQw=",
+      "url": "_framework/ActivosFiljos.Client.tw2f7gwrjj.pdb"
     },
     {
-      "hash": "sha256-3heE3zd8w3gjYtnY3yQCYVlLuDW+cIZ2P6n9A1CdlvM=",
-      "url": "_framework/ActivosFiljos.Client.m676atppqp.pdb"
+      "hash": "sha256-YSGA0vjoDSRQ2qGclXMtnxG7Y1ErHHmSZ+ObiPonpps=",
+      "url": "_framework/ActivosFiljos.Client.x4fnx1th4r.wasm"
     },
     {
       "hash": "sha256-8hTdrmR59LAJRrDu8LLRlNn641/iWIAjzG1GcCsAhR0=",
@@ -950,7 +950,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.377bly7twj.wasm"
     },
     {
-      "hash": "sha256-HtZSSgRZXER28jxsF+mgYfrxWFmjs7jnZF9MIPznB/Q=",
+      "hash": "sha256-ECyiFiidKBqU+EVR+SSPzX8XJemmsx367obze2ih+BI=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -980,6 +980,14 @@ self.assetsManifest = {
     {
       "hash": "sha256-uD1t4tsPtmIHsx30SC4OztehGGaHVDksFD38rL2e3P4=",
       "url": "_framework/dotnet.runtime.o8gq1i8bk6.js"
+    },
+    {
+      "hash": "sha256-SQMWkc14ShaeN1ehNy9suy0qHn6R9eO2QJv/b8QTuKw=",
+      "url": "_framework/en/ActivosFiljos.Client.resources.jl7l3sl78v.wasm"
+    },
+    {
+      "hash": "sha256-WZUw6HvSYX9szUzuXUJOpVdJUqrCW+d5smRhVIxpBno=",
+      "url": "_framework/es-PA/ActivosFiljos.Client.resources.dbsg6jrkpl.wasm"
     },
     {
       "hash": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=",
