@@ -24,6 +24,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Projects/AF2024/ActivosFijos/Client/CulturePicker.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VsdHVyZVBpY2tlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Projects/AF2024/ActivosFijos/Client/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

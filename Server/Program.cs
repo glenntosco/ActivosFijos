@@ -43,6 +43,7 @@ builder.Services.AddControllers().AddOData(opt =>
     opt.AddRouteComponents("odata/FixedAssetsDB", oDataBuilderFixedAssetsDB.GetEdmModel()).Count().Filter().OrderBy().Expand().Select().SetMaxTop(null).TimeZone = TimeZoneInfo.Utc;
 });
 builder.Services.AddScoped<ActivosFiljos.Client.FixedAssetsDBService>();
+builder.Services.AddLocalization();
 var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -58,6 +59,7 @@ else
 
 app.UseHttpsRedirection();
 app.MapControllers();
+app.UseRequestLocalization(options => options.AddSupportedCultures("en", "es-PA").AddSupportedUICultures("en", "es-PA").SetDefaultCulture("en"));
 app.UseStaticFiles();
 app.UseAntiforgery();
 app.MapRazorComponents<App>().AddInteractiveServerRenderMode().AddInteractiveWebAssemblyRenderMode().AddAdditionalAssemblies(typeof(ActivosFiljos.Client._Imports).Assembly);

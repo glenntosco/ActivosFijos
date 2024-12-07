@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VI+WND5s6OsFvVIS9XHasAnbhwHdkc8ieBAVcWfKy+s=",
+  "Hash": "XPievhByTr1dSsFRnjAFnfhZMhw8D8B7Muqtv5Mlz00=",
   "Source": "ActivosFiljos.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -23,8 +23,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "iw5q0pze98",
-      "Integrity": "YlQ8K/MCzXMXhheMTonWRFqnb/zMvPj2X9dZK1kAnTU=",
+      "Fingerprint": "ucsge7l0ij",
+      "Integrity": "cnKYOkD51kbiTyg2KBdP8jrfE15m7DKQAiZE/+XCbZQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\ActivosFiljos.Client.pdb"
@@ -44,8 +44,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "y1ckhvcnlw",
-      "Integrity": "+ngCXn5aqlDQecfG74LlLtCG85QgpkFPEu1th80BA2g=",
+      "Fingerprint": "0bik066ldp",
+      "Integrity": "VO5q3LY3cDSeUOAOIpYy4fNMPDA+5kMxY4MjYv4xUms=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\webcil\\ActivosFiljos.Client.wasm"
@@ -65,8 +65,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "y6scsdek1q",
-      "Integrity": "uukJsfGksmFdBZNomdxy5JvceShEhIRa5XXp6P6GyiA=",
+      "Fingerprint": "27vqax14ji",
+      "Integrity": "kmFqjCVzYx2+Erf86b84TlXdDmYP6Gm9cGrgZRLM4eE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -219,12 +219,12 @@
       "OriginalItemSpec": "C:\\Users\\Glenn\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.0\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
-      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt.dat",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK#[.{fingerprint}]!.dat",
+      "RelativePath": "_framework/icudt#[.{fingerprint}]!.dat",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -233,53 +233,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "native",
-      "Fingerprint": "tjcz0u77k5",
-      "Integrity": "SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
+      "Fingerprint": "oh1zvcfom8",
+      "Integrity": "tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Glenn\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.0\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
-    },
-    {
-      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "SourceId": "ActivosFiljos.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS#[.{fingerprint}]!.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "WasmResource",
-      "AssetTraitValue": "native",
-      "Fingerprint": "tptq2av103",
-      "Integrity": "8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Glenn\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.0\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
-    },
-    {
-      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "SourceId": "ActivosFiljos.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK#[.{fingerprint}]!.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "WasmResource",
-      "AssetTraitValue": "native",
-      "Fingerprint": "lfu7j35m59",
-      "Integrity": "L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs=",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Glenn\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.0\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\Glenn\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.0\\runtimes\\browser-wasm\\native\\icudt.dat"
     },
     {
       "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -742,6 +700,48 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\webcil\\Microsoft.Extensions.Http.wasm"
+    },
+    {
+      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.wasm",
+      "SourceId": "ActivosFiljos.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.Abstractions#[.{fingerprint}]!.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "qa0jmre5w9",
+      "Integrity": "QspO6bFQ5Ic2xt6edWTY6oi7g8YBM3z6llz11/J6H1o=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\webcil\\Microsoft.Extensions.Localization.Abstractions.wasm"
+    },
+    {
+      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.wasm",
+      "SourceId": "ActivosFiljos.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization#[.{fingerprint}]!.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "2y8sbx0rdg",
+      "Integrity": "Sut6zwJxe8UqofuAS1eDF9eZFoR5mjFDInY5N91R+Z4=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\webcil\\Microsoft.Extensions.Localization.wasm"
     },
     {
       "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm",
@@ -5700,6 +5700,27 @@
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.wasm"
     },
     {
+      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\82uye3s2bu-oh1zvcfom8.gz",
+      "SourceId": "ActivosFiljos.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt#[.{fingerprint=oh1zvcfom8}]!.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "026bk96w3e",
+      "Integrity": "aKsVVONWF8d1CrHCKoRF+NGAgVR7MecNZzw25rYCn1E=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt.dat"
+    },
+    {
       "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\8h2iq2mswr-afwx175d9k.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Computed",
@@ -6120,7 +6141,7 @@
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.FileSystem.AccessControl.wasm"
     },
     {
-      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-y6scsdek1q.gz",
+      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-27vqax14ji.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -6134,8 +6155,8 @@
       "RelatedAsset": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cwnkk2fpwd",
-      "Integrity": "/MFeLNNiZ8EM4ESBRLDhPhhJ8O6voKQSQ2MoDbyI/HY=",
+      "Fingerprint": "lhfxac4gq6",
+      "Integrity": "V/llmeag6oT+RgKuPGd3LtnR4UX/qiXB9hJNyfNVfiw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6540,6 +6561,27 @@
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.wasm"
     },
     {
+      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\dmwn79jmot-qa0jmre5w9.gz",
+      "SourceId": "ActivosFiljos.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.Abstractions#[.{fingerprint=qa0jmre5w9}]!.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "l3oh83cc0z",
+      "Integrity": "QUiVRFPyyqdfNAquFuwd3Z/YviK3I7aWxL7w/KPN9oM=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.wasm"
+    },
+    {
       "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\e0ot54cc2y-wzhxi250cz.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Computed",
@@ -6874,48 +6916,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Serialization.Json.wasm"
-    },
-    {
-      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\g52sz89dkb-tptq2av103.gz",
-      "SourceId": "ActivosFiljos.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS#[.{fingerprint=tptq2av103}]!.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "kcp4n5gllp",
-      "Integrity": "rLsEn/DgWXf7nRK2qegv2ARpYrcwixMOaXOoFcVmgjg=",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
-      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\geanyywnwb-tjcz0u77k5.gz",
-      "SourceId": "ActivosFiljos.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK#[.{fingerprint=tjcz0u77k5}]!.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "ffu5aujli6",
-      "Integrity": "Sxt3k51yp5RyINpi7a/YQNnTWexafADiNQYBnBjQrYc=",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\ghj8qlisc1-ctn0pypdat.gz",
@@ -7338,6 +7338,27 @@
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.FileSystem.Watcher.wasm"
     },
     {
+      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j49p1j6ue6-2y8sbx0rdg.gz",
+      "SourceId": "ActivosFiljos.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization#[.{fingerprint=2y8sbx0rdg}]!.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fosqtwk3el",
+      "Integrity": "r9AIWK60Pbgga4+1xWYIwA60Hs1/XI7b0NCXsv0Ov4Y=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.wasm"
+    },
+    {
       "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j4xiljr2o8-cx40wf47rk.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Computed",
@@ -7357,27 +7378,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.wasm"
-    },
-    {
-      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j76eoyx1ps-lfu7j35m59.gz",
-      "SourceId": "ActivosFiljos.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK#[.{fingerprint=lfu7j35m59}]!.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "m3twp0zama",
-      "Integrity": "UsST+ZWYFgogrz0pZB/4gGQWboPgRkurfdpi/0/ENCA=",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j9px3hc4wc-af0ord36ui.gz",
@@ -7947,12 +7947,12 @@
       "OriginalItemSpec": "C:\\Users\\Glenn\\.nuget\\packages\\radzen.blazor\\5.6.12\\staticwebassets\\css\\default-base.css"
     },
     {
-      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-y1ckhvcnlw.gz",
+      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-0bik066ldp.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ActivosFiljos.Client#[.{fingerprint=y1ckhvcnlw}]!.wasm.gz",
+      "RelativePath": "_framework/ActivosFiljos.Client#[.{fingerprint=0bik066ldp}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7961,8 +7961,8 @@
       "RelatedAsset": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cxlcts6rhp",
-      "Integrity": "ALmFjPyDmjnFr/fcEGwf9jklcvWnGMwqGrZj6L4vNzs=",
+      "Fingerprint": "tuz42tivwy",
+      "Integrity": "hUTMoO8XX7EQxsl9kGyy1QWJchsJwye9p0V1BuRbeJw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm"
@@ -8073,12 +8073,12 @@
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.UnmanagedMemoryStream.wasm"
     },
     {
-      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-iw5q0pze98.gz",
+      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-ucsge7l0ij.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ActivosFiljos.Client#[.{fingerprint=iw5q0pze98}]!.pdb.gz",
+      "RelativePath": "_framework/ActivosFiljos.Client#[.{fingerprint=ucsge7l0ij}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8087,8 +8087,8 @@
       "RelatedAsset": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xvcd5dt2va",
-      "Integrity": "g7QDMi2nCNrJqGQz4WKJWigiNMx9EQLzmSVx9UVc9Yo=",
+      "Fingerprint": "vq757zpk4n",
+      "Integrity": "dxnhLvIEWdtMugV5WD8GVcjd3CE4xZXTwZEP/ml0q1E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.pdb"
@@ -9375,7 +9375,7 @@
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Numerics.wasm"
     },
     {
-      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-j43fv8g6ys.gz",
+      "Identity": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-4z12fbw85r.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -9389,8 +9389,8 @@
       "RelatedAsset": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pqbkhatmwx",
-      "Integrity": "jx5BBZi1Xu3CgRaa17pgxw1VpvoGs+nKq/hAdjK/4KE=",
+      "Fingerprint": "tnc9zg1f8j",
+      "Integrity": "Wbsq8EasuG9HTO797lXwz4cH6BxIi1oql2I7C+KqYTQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -9620,8 +9620,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "j43fv8g6ys",
-      "Integrity": "bSOdAfhrodqVObPUisz1yA92QF3ZDam0OxyIR/uUJ6Q=",
+      "Fingerprint": "4z12fbw85r",
+      "Integrity": "gPFLeGWlU1598RYlo+9cYrDWzhUfBzaBRW18Uh/96U8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -9641,8 +9641,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "29h4gcslkn",
-      "Integrity": "VvDNmFQfAShLZbr3Fz4MpH99H9EHA/XFiwXfAuWBvX4=",
+      "Fingerprint": "vkfxewldpu",
+      "Integrity": "H6upKtKJg7gYx0Fx1gIpWebXEgnFJhl5muaM2xpEdlI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "../Server/wwwroot/service-worker.js"
@@ -16513,305 +16513,7 @@
       ]
     },
     {
-      "Route": "_framework/ActivosFiljos.Client.iw5q0pze98.pdb",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "411816"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YlQ8K/MCzXMXhheMTonWRFqnb/zMvPj2X9dZK1kAnTU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iw5q0pze98"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ActivosFiljos.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YlQ8K/MCzXMXhheMTonWRFqnb/zMvPj2X9dZK1kAnTU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.iw5q0pze98.pdb",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-iw5q0pze98.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000003247829"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "307897"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g7QDMi2nCNrJqGQz4WKJWigiNMx9EQLzmSVx9UVc9Yo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"YlQ8K/MCzXMXhheMTonWRFqnb/zMvPj2X9dZK1kAnTU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iw5q0pze98"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ActivosFiljos.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YlQ8K/MCzXMXhheMTonWRFqnb/zMvPj2X9dZK1kAnTU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.iw5q0pze98.pdb.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-iw5q0pze98.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "307897"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g7QDMi2nCNrJqGQz4WKJWigiNMx9EQLzmSVx9UVc9Yo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iw5q0pze98"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ActivosFiljos.Client.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-g7QDMi2nCNrJqGQz4WKJWigiNMx9EQLzmSVx9UVc9Yo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.pdb",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "411816"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YlQ8K/MCzXMXhheMTonWRFqnb/zMvPj2X9dZK1kAnTU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YlQ8K/MCzXMXhheMTonWRFqnb/zMvPj2X9dZK1kAnTU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.pdb",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-iw5q0pze98.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000003247829"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "307897"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g7QDMi2nCNrJqGQz4WKJWigiNMx9EQLzmSVx9UVc9Yo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"YlQ8K/MCzXMXhheMTonWRFqnb/zMvPj2X9dZK1kAnTU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YlQ8K/MCzXMXhheMTonWRFqnb/zMvPj2X9dZK1kAnTU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.pdb.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-iw5q0pze98.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "307897"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g7QDMi2nCNrJqGQz4WKJWigiNMx9EQLzmSVx9UVc9Yo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-g7QDMi2nCNrJqGQz4WKJWigiNMx9EQLzmSVx9UVc9Yo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.wasm",
+      "Route": "_framework/ActivosFiljos.Client.0bik066ldp.wasm",
       "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -16821,7 +16523,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "830741"
+          "Value": "883477"
         },
         {
           "Name": "Content-Type",
@@ -16829,148 +16531,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+ngCXn5aqlDQecfG74LlLtCG85QgpkFPEu1th80BA2g=\""
+          "Value": "\"VO5q3LY3cDSeUOAOIpYy4fNMPDA+5kMxY4MjYv4xUms=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+ngCXn5aqlDQecfG74LlLtCG85QgpkFPEu1th80BA2g="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.wasm",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-y1ckhvcnlw.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000004845384"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "206381"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ALmFjPyDmjnFr/fcEGwf9jklcvWnGMwqGrZj6L4vNzs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"+ngCXn5aqlDQecfG74LlLtCG85QgpkFPEu1th80BA2g=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+ngCXn5aqlDQecfG74LlLtCG85QgpkFPEu1th80BA2g="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.wasm.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-y1ckhvcnlw.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "206381"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ALmFjPyDmjnFr/fcEGwf9jklcvWnGMwqGrZj6L4vNzs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ALmFjPyDmjnFr/fcEGwf9jklcvWnGMwqGrZj6L4vNzs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.y1ckhvcnlw.wasm",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "830741"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+ngCXn5aqlDQecfG74LlLtCG85QgpkFPEu1th80BA2g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:42 GMT"
+          "Value": "Sat, 07 Dec 2024 02:21:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16980,7 +16545,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y1ckhvcnlw"
+          "Value": "0bik066ldp"
         },
         {
           "Name": "label",
@@ -16988,18 +16553,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+ngCXn5aqlDQecfG74LlLtCG85QgpkFPEu1th80BA2g="
+          "Value": "sha256-VO5q3LY3cDSeUOAOIpYy4fNMPDA+5kMxY4MjYv4xUms="
         }
       ]
     },
     {
-      "Route": "_framework/ActivosFiljos.Client.y1ckhvcnlw.wasm",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-y1ckhvcnlw.gz",
+      "Route": "_framework/ActivosFiljos.Client.0bik066ldp.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-0bik066ldp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000004845384"
+          "Quality": "0.000004693602"
         }
       ],
       "ResponseHeaders": [
@@ -17009,15 +16574,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "206381"
+          "Value": "213055"
         },
         {
           "Name": "ETag",
-          "Value": "\"ALmFjPyDmjnFr/fcEGwf9jklcvWnGMwqGrZj6L4vNzs=\""
+          "Value": "\"hUTMoO8XX7EQxsl9kGyy1QWJchsJwye9p0V1BuRbeJw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17037,13 +16602,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+ngCXn5aqlDQecfG74LlLtCG85QgpkFPEu1th80BA2g=\""
+          "Value": "W/\"VO5q3LY3cDSeUOAOIpYy4fNMPDA+5kMxY4MjYv4xUms=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y1ckhvcnlw"
+          "Value": "0bik066ldp"
         },
         {
           "Name": "label",
@@ -17051,13 +16616,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+ngCXn5aqlDQecfG74LlLtCG85QgpkFPEu1th80BA2g="
+          "Value": "sha256-VO5q3LY3cDSeUOAOIpYy4fNMPDA+5kMxY4MjYv4xUms="
         }
       ]
     },
     {
-      "Route": "_framework/ActivosFiljos.Client.y1ckhvcnlw.wasm.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-y1ckhvcnlw.gz",
+      "Route": "_framework/ActivosFiljos.Client.0bik066ldp.wasm.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-0bik066ldp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17066,7 +16631,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "206381"
+          "Value": "213055"
         },
         {
           "Name": "Content-Type",
@@ -17074,11 +16639,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ALmFjPyDmjnFr/fcEGwf9jklcvWnGMwqGrZj6L4vNzs=\""
+          "Value": "\"hUTMoO8XX7EQxsl9kGyy1QWJchsJwye9p0V1BuRbeJw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17096,7 +16661,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y1ckhvcnlw"
+          "Value": "0bik066ldp"
         },
         {
           "Name": "label",
@@ -17104,7 +16669,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ALmFjPyDmjnFr/fcEGwf9jklcvWnGMwqGrZj6L4vNzs="
+          "Value": "sha256-hUTMoO8XX7EQxsl9kGyy1QWJchsJwye9p0V1BuRbeJw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.pdb",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "419160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cnKYOkD51kbiTyg2KBdP8jrfE15m7DKQAiZE/+XCbZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cnKYOkD51kbiTyg2KBdP8jrfE15m7DKQAiZE/+XCbZQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.pdb",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-ucsge7l0ij.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003185048"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313966"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxnhLvIEWdtMugV5WD8GVcjd3CE4xZXTwZEP/ml0q1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cnKYOkD51kbiTyg2KBdP8jrfE15m7DKQAiZE/+XCbZQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cnKYOkD51kbiTyg2KBdP8jrfE15m7DKQAiZE/+XCbZQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.pdb.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-ucsge7l0ij.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxnhLvIEWdtMugV5WD8GVcjd3CE4xZXTwZEP/ml0q1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dxnhLvIEWdtMugV5WD8GVcjd3CE4xZXTwZEP/ml0q1E="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.ucsge7l0ij.pdb",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "419160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cnKYOkD51kbiTyg2KBdP8jrfE15m7DKQAiZE/+XCbZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucsge7l0ij"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ActivosFiljos.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cnKYOkD51kbiTyg2KBdP8jrfE15m7DKQAiZE/+XCbZQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.ucsge7l0ij.pdb",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-ucsge7l0ij.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003185048"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313966"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxnhLvIEWdtMugV5WD8GVcjd3CE4xZXTwZEP/ml0q1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cnKYOkD51kbiTyg2KBdP8jrfE15m7DKQAiZE/+XCbZQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucsge7l0ij"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ActivosFiljos.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cnKYOkD51kbiTyg2KBdP8jrfE15m7DKQAiZE/+XCbZQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.ucsge7l0ij.pdb.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-ucsge7l0ij.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxnhLvIEWdtMugV5WD8GVcjd3CE4xZXTwZEP/ml0q1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucsge7l0ij"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ActivosFiljos.Client.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dxnhLvIEWdtMugV5WD8GVcjd3CE4xZXTwZEP/ml0q1E="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "883477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VO5q3LY3cDSeUOAOIpYy4fNMPDA+5kMxY4MjYv4xUms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VO5q3LY3cDSeUOAOIpYy4fNMPDA+5kMxY4MjYv4xUms="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-0bik066ldp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000004693602"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hUTMoO8XX7EQxsl9kGyy1QWJchsJwye9p0V1BuRbeJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VO5q3LY3cDSeUOAOIpYy4fNMPDA+5kMxY4MjYv4xUms=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VO5q3LY3cDSeUOAOIpYy4fNMPDA+5kMxY4MjYv4xUms="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.wasm.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-0bik066ldp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hUTMoO8XX7EQxsl9kGyy1QWJchsJwye9p0V1BuRbeJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hUTMoO8XX7EQxsl9kGyy1QWJchsJwye9p0V1BuRbeJw="
         }
       ]
     },
@@ -17127,7 +17127,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uukJsfGksmFdBZNomdxy5JvceShEhIRa5XXp6P6GyiA=\""
+          "Value": "\"kmFqjCVzYx2+Erf86b84TlXdDmYP6Gm9cGrgZRLM4eE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kmFqjCVzYx2+Erf86b84TlXdDmYP6Gm9cGrgZRLM4eE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-27vqax14ji.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000078173859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12791"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V/llmeag6oT+RgKuPGd3LtnR4UX/qiXB9hJNyfNVfiw=\""
         },
         {
           "Name": "Last-Modified",
@@ -17136,45 +17175,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uukJsfGksmFdBZNomdxy5JvceShEhIRa5XXp6P6GyiA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-y6scsdek1q.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000078106694"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12802"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/MFeLNNiZ8EM4ESBRLDhPhhJ8O6voKQSQ2MoDbyI/HY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -17190,19 +17190,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uukJsfGksmFdBZNomdxy5JvceShEhIRa5XXp6P6GyiA=\""
+          "Value": "W/\"kmFqjCVzYx2+Erf86b84TlXdDmYP6Gm9cGrgZRLM4eE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uukJsfGksmFdBZNomdxy5JvceShEhIRa5XXp6P6GyiA="
+          "Value": "sha256-kmFqjCVzYx2+Erf86b84TlXdDmYP6Gm9cGrgZRLM4eE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-y6scsdek1q.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-27vqax14ji.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17211,7 +17211,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12802"
+          "Value": "12791"
         },
         {
           "Name": "Content-Type",
@@ -17219,11 +17219,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/MFeLNNiZ8EM4ESBRLDhPhhJ8O6voKQSQ2MoDbyI/HY=\""
+          "Value": "\"V/llmeag6oT+RgKuPGd3LtnR4UX/qiXB9hJNyfNVfiw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
+          "Value": "Sat, 07 Dec 2024 00:10:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17241,7 +17241,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/MFeLNNiZ8EM4ESBRLDhPhhJ8O6voKQSQ2MoDbyI/HY="
+          "Value": "sha256-V/llmeag6oT+RgKuPGd3LtnR4UX/qiXB9hJNyfNVfiw="
         }
       ]
     },
@@ -19171,8 +19171,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "Route": "_framework/icudt.dat",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt.dat",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19181,7 +19181,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "956416"
+          "Value": "1526128"
         },
         {
           "Name": "Content-Type",
@@ -19189,7 +19189,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=\""
+          "Value": "\"tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=\""
         },
         {
           "Name": "Last-Modified",
@@ -19203,18 +19203,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk="
+          "Value": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4="
         }
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\geanyywnwb-tjcz0u77k5.gz",
+      "Route": "_framework/icudt.dat",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\82uye3s2bu-oh1zvcfom8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000002779901"
+          "Quality": "0.000002033430"
         }
       ],
       "ResponseHeaders": [
@@ -19224,15 +19224,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "359724"
+          "Value": "491779"
         },
         {
           "Name": "ETag",
-          "Value": "\"Sxt3k51yp5RyINpi7a/YQNnTWexafADiNQYBnBjQrYc=\""
+          "Value": "\"aKsVVONWF8d1CrHCKoRF+NGAgVR7MecNZzw25rYCn1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19252,19 +19252,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=\""
+          "Value": "W/\"tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk="
+          "Value": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4="
         }
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.dat.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\geanyywnwb-tjcz0u77k5.gz",
+      "Route": "_framework/icudt.dat.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\82uye3s2bu-oh1zvcfom8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19273,7 +19273,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "359724"
+          "Value": "491779"
         },
         {
           "Name": "Content-Type",
@@ -19281,11 +19281,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Sxt3k51yp5RyINpi7a/YQNnTWexafADiNQYBnBjQrYc=\""
+          "Value": "\"aKsVVONWF8d1CrHCKoRF+NGAgVR7MecNZzw25rYCn1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19303,13 +19303,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Sxt3k51yp5RyINpi7a/YQNnTWexafADiNQYBnBjQrYc="
+          "Value": "sha256-aKsVVONWF8d1CrHCKoRF+NGAgVR7MecNZzw25rYCn1E="
         }
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.tjcz0u77k5.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "Route": "_framework/icudt.oh1zvcfom8.dat",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt.dat",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19318,7 +19318,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "956416"
+          "Value": "1526128"
         },
         {
           "Name": "Content-Type",
@@ -19326,7 +19326,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=\""
+          "Value": "\"tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=\""
         },
         {
           "Name": "Last-Modified",
@@ -19340,26 +19340,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tjcz0u77k5"
+          "Value": "oh1zvcfom8"
         },
         {
           "Name": "label",
-          "Value": "_framework/icudt_CJK.dat"
+          "Value": "_framework/icudt.dat"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk="
+          "Value": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4="
         }
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.tjcz0u77k5.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\geanyywnwb-tjcz0u77k5.gz",
+      "Route": "_framework/icudt.oh1zvcfom8.dat",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\82uye3s2bu-oh1zvcfom8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000002779901"
+          "Quality": "0.000002033430"
         }
       ],
       "ResponseHeaders": [
@@ -19369,15 +19369,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "359724"
+          "Value": "491779"
         },
         {
           "Name": "ETag",
-          "Value": "\"Sxt3k51yp5RyINpi7a/YQNnTWexafADiNQYBnBjQrYc=\""
+          "Value": "\"aKsVVONWF8d1CrHCKoRF+NGAgVR7MecNZzw25rYCn1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19397,27 +19397,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=\""
+          "Value": "W/\"tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tjcz0u77k5"
+          "Value": "oh1zvcfom8"
         },
         {
           "Name": "label",
-          "Value": "_framework/icudt_CJK.dat"
+          "Value": "_framework/icudt.dat"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk="
+          "Value": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4="
         }
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.tjcz0u77k5.dat.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\geanyywnwb-tjcz0u77k5.gz",
+      "Route": "_framework/icudt.oh1zvcfom8.dat.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\82uye3s2bu-oh1zvcfom8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19426,7 +19426,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "359724"
+          "Value": "491779"
         },
         {
           "Name": "Content-Type",
@@ -19434,11 +19434,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Sxt3k51yp5RyINpi7a/YQNnTWexafADiNQYBnBjQrYc=\""
+          "Value": "\"aKsVVONWF8d1CrHCKoRF+NGAgVR7MecNZzw25rYCn1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19456,611 +19456,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tjcz0u77k5"
+          "Value": "oh1zvcfom8"
         },
         {
           "Name": "label",
-          "Value": "_framework/icudt_CJK.dat.gz"
+          "Value": "_framework/icudt.dat.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Sxt3k51yp5RyINpi7a/YQNnTWexafADiNQYBnBjQrYc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_EFIGS.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "550832"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 16 Sep 2024 14:45:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_EFIGS.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\g52sz89dkb-tptq2av103.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000004544298"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "220055"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rLsEn/DgWXf7nRK2qegv2ARpYrcwixMOaXOoFcVmgjg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_EFIGS.dat.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\g52sz89dkb-tptq2av103.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "220055"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rLsEn/DgWXf7nRK2qegv2ARpYrcwixMOaXOoFcVmgjg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rLsEn/DgWXf7nRK2qegv2ARpYrcwixMOaXOoFcVmgjg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_EFIGS.tptq2av103.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "550832"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 16 Sep 2024 14:45:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tptq2av103"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/icudt_EFIGS.dat"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_EFIGS.tptq2av103.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\g52sz89dkb-tptq2av103.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000004544298"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "220055"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rLsEn/DgWXf7nRK2qegv2ARpYrcwixMOaXOoFcVmgjg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tptq2av103"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/icudt_EFIGS.dat"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_EFIGS.tptq2av103.dat.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\g52sz89dkb-tptq2av103.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "220055"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rLsEn/DgWXf7nRK2qegv2ARpYrcwixMOaXOoFcVmgjg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tptq2av103"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/icudt_EFIGS.dat.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rLsEn/DgWXf7nRK2qegv2ARpYrcwixMOaXOoFcVmgjg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_no_CJK.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1107168"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 16 Sep 2024 14:45:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_no_CJK.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j76eoyx1ps-lfu7j35m59.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000002881645"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "347023"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UsST+ZWYFgogrz0pZB/4gGQWboPgRkurfdpi/0/ENCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_no_CJK.dat.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j76eoyx1ps-lfu7j35m59.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "347023"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UsST+ZWYFgogrz0pZB/4gGQWboPgRkurfdpi/0/ENCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UsST+ZWYFgogrz0pZB/4gGQWboPgRkurfdpi/0/ENCA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_no_CJK.lfu7j35m59.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1107168"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 16 Sep 2024 14:45:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lfu7j35m59"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/icudt_no_CJK.dat"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_no_CJK.lfu7j35m59.dat",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j76eoyx1ps-lfu7j35m59.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000002881645"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "347023"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UsST+ZWYFgogrz0pZB/4gGQWboPgRkurfdpi/0/ENCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lfu7j35m59"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/icudt_no_CJK.dat"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/icudt_no_CJK.lfu7j35m59.dat.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j76eoyx1ps-lfu7j35m59.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "347023"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UsST+ZWYFgogrz0pZB/4gGQWboPgRkurfdpi/0/ENCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 23:45:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lfu7j35m59"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/icudt_no_CJK.dat.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UsST+ZWYFgogrz0pZB/4gGQWboPgRkurfdpi/0/ENCA="
+          "Value": "sha256-aKsVVONWF8d1CrHCKoRF+NGAgVR7MecNZzw25rYCn1E="
         }
       ]
     },
@@ -26617,6 +26021,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-jbO7OGNvQARgD4bKfQvp7TISmOObBLRAKFuGA8SkrJs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.2y8sbx0rdg.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sut6zwJxe8UqofuAS1eDF9eZFoR5mjFDInY5N91R+Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2y8sbx0rdg"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Microsoft.Extensions.Localization.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sut6zwJxe8UqofuAS1eDF9eZFoR5mjFDInY5N91R+Z4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.2y8sbx0rdg.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j49p1j6ue6-2y8sbx0rdg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000099078569"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10092"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r9AIWK60Pbgga4+1xWYIwA60Hs1/XI7b0NCXsv0Ov4Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Sut6zwJxe8UqofuAS1eDF9eZFoR5mjFDInY5N91R+Z4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2y8sbx0rdg"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Microsoft.Extensions.Localization.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sut6zwJxe8UqofuAS1eDF9eZFoR5mjFDInY5N91R+Z4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.2y8sbx0rdg.wasm.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j49p1j6ue6-2y8sbx0rdg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r9AIWK60Pbgga4+1xWYIwA60Hs1/XI7b0NCXsv0Ov4Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2y8sbx0rdg"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Microsoft.Extensions.Localization.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r9AIWK60Pbgga4+1xWYIwA60Hs1/XI7b0NCXsv0Ov4Y="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.Abstractions.qa0jmre5w9.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QspO6bFQ5Ic2xt6edWTY6oi7g8YBM3z6llz11/J6H1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qa0jmre5w9"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Microsoft.Extensions.Localization.Abstractions.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QspO6bFQ5Ic2xt6edWTY6oi7g8YBM3z6llz11/J6H1o="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.Abstractions.qa0jmre5w9.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\dmwn79jmot-qa0jmre5w9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000266453504"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3752"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUiVRFPyyqdfNAquFuwd3Z/YviK3I7aWxL7w/KPN9oM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QspO6bFQ5Ic2xt6edWTY6oi7g8YBM3z6llz11/J6H1o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qa0jmre5w9"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Microsoft.Extensions.Localization.Abstractions.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QspO6bFQ5Ic2xt6edWTY6oi7g8YBM3z6llz11/J6H1o="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.Abstractions.qa0jmre5w9.wasm.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\dmwn79jmot-qa0jmre5w9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUiVRFPyyqdfNAquFuwd3Z/YviK3I7aWxL7w/KPN9oM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qa0jmre5w9"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Microsoft.Extensions.Localization.Abstractions.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUiVRFPyyqdfNAquFuwd3Z/YviK3I7aWxL7w/KPN9oM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.Abstractions.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QspO6bFQ5Ic2xt6edWTY6oi7g8YBM3z6llz11/J6H1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QspO6bFQ5Ic2xt6edWTY6oi7g8YBM3z6llz11/J6H1o="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.Abstractions.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\dmwn79jmot-qa0jmre5w9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000266453504"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3752"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUiVRFPyyqdfNAquFuwd3Z/YviK3I7aWxL7w/KPN9oM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QspO6bFQ5Ic2xt6edWTY6oi7g8YBM3z6llz11/J6H1o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QspO6bFQ5Ic2xt6edWTY6oi7g8YBM3z6llz11/J6H1o="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.Abstractions.wasm.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\dmwn79jmot-qa0jmre5w9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUiVRFPyyqdfNAquFuwd3Z/YviK3I7aWxL7w/KPN9oM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUiVRFPyyqdfNAquFuwd3Z/YviK3I7aWxL7w/KPN9oM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sut6zwJxe8UqofuAS1eDF9eZFoR5mjFDInY5N91R+Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sut6zwJxe8UqofuAS1eDF9eZFoR5mjFDInY5N91R+Z4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.wasm",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j49p1j6ue6-2y8sbx0rdg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000099078569"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10092"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r9AIWK60Pbgga4+1xWYIwA60Hs1/XI7b0NCXsv0Ov4Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Sut6zwJxe8UqofuAS1eDF9eZFoR5mjFDInY5N91R+Z4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sut6zwJxe8UqofuAS1eDF9eZFoR5mjFDInY5N91R+Z4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Microsoft.Extensions.Localization.wasm.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\j49p1j6ue6-2y8sbx0rdg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r9AIWK60Pbgga4+1xWYIwA60Hs1/XI7b0NCXsv0Ov4Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r9AIWK60Pbgga4+1xWYIwA60Hs1/XI7b0NCXsv0Ov4Y="
         }
       ]
     },
@@ -79385,7 +79385,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VvDNmFQfAShLZbr3Fz4MpH99H9EHA/XFiwXfAuWBvX4=\""
+          "Value": "\"H6upKtKJg7gYx0Fx1gIpWebXEgnFJhl5muaM2xpEdlI=\""
         },
         {
           "Name": "Last-Modified",
@@ -79399,18 +79399,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VvDNmFQfAShLZbr3Fz4MpH99H9EHA/XFiwXfAuWBvX4="
+          "Value": "sha256-H6upKtKJg7gYx0Fx1gIpWebXEgnFJhl5muaM2xpEdlI="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-j43fv8g6ys.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-4z12fbw85r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080179602"
+          "Quality": "0.000080224629"
         }
       ],
       "ResponseHeaders": [
@@ -79420,15 +79420,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12471"
+          "Value": "12464"
         },
         {
           "Name": "ETag",
-          "Value": "\"jx5BBZi1Xu3CgRaa17pgxw1VpvoGs+nKq/hAdjK/4KE=\""
+          "Value": "\"Wbsq8EasuG9HTO797lXwz4cH6BxIi1oql2I7C+KqYTQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -79448,13 +79448,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bSOdAfhrodqVObPUisz1yA92QF3ZDam0OxyIR/uUJ6Q=\""
+          "Value": "W/\"gPFLeGWlU1598RYlo+9cYrDWzhUfBzaBRW18Uh/96U8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bSOdAfhrodqVObPUisz1yA92QF3ZDam0OxyIR/uUJ6Q="
+          "Value": "sha256-gPFLeGWlU1598RYlo+9cYrDWzhUfBzaBRW18Uh/96U8="
         }
       ]
     },
@@ -79469,7 +79469,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "38147"
+          "Value": "38201"
         },
         {
           "Name": "Content-Type",
@@ -79477,11 +79477,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bSOdAfhrodqVObPUisz1yA92QF3ZDam0OxyIR/uUJ6Q=\""
+          "Value": "\"gPFLeGWlU1598RYlo+9cYrDWzhUfBzaBRW18Uh/96U8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -79491,13 +79491,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bSOdAfhrodqVObPUisz1yA92QF3ZDam0OxyIR/uUJ6Q="
+          "Value": "sha256-gPFLeGWlU1598RYlo+9cYrDWzhUfBzaBRW18Uh/96U8="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-j43fv8g6ys.gz",
+      "AssetFile": "C:\\Projects\\AF2024\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-4z12fbw85r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -79506,7 +79506,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12471"
+          "Value": "12464"
         },
         {
           "Name": "Content-Type",
@@ -79514,11 +79514,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jx5BBZi1Xu3CgRaa17pgxw1VpvoGs+nKq/hAdjK/4KE=\""
+          "Value": "\"Wbsq8EasuG9HTO797lXwz4cH6BxIi1oql2I7C+KqYTQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 00:09:46 GMT"
+          "Value": "Sat, 07 Dec 2024 02:21:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -79536,7 +79536,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jx5BBZi1Xu3CgRaa17pgxw1VpvoGs+nKq/hAdjK/4KE="
+          "Value": "sha256-Wbsq8EasuG9HTO797lXwz4cH6BxIi1oql2I7C+KqYTQ="
         }
       ]
     }
