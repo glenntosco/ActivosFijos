@@ -25,10 +25,10 @@
     <RadzenSidebar @bind-Expanded="@sidebarExpanded" style="z-index: 2">
         <RadzenStack AlignItems="Radzen.AlignItems.Center" class="rz-py-4 rz-py-lg-6" Style="padding: var(--rz-panel-menu-item-padding); border-bottom: var(--rz-panel-menu-item-border);">
             <RadzenImage Path="images/logo.png"  style="width: 48px; height: 48px;" AlternateText="Application logo"></RadzenImage>
-            <RadzenText Text="ActivosFiljos" TextStyle="Radzen.Blazor.TextStyle.Subtitle1" class="rz-mb-0" style="color: var(--rz-sidebar-color);" />
+            <RadzenText Text="Activos Filjos" TextStyle="Radzen.Blazor.TextStyle.Subtitle1" class="rz-mb-0" style="color: var(--rz-sidebar-color);" />
         </RadzenStack>
         <RadzenPanelMenu>
-            <RadzenPanelMenuItem Text="Home" Path="" />
+            <RadzenPanelMenuItem Text="Fixed Assets" Path="fixed-assets" />
             <RadzenPanelMenuItem Text="AssetAssignments" Path="asset-assignments" />
             <RadzenPanelMenuItem Text="AssetAttributes" Path="asset-attributes" />
             <RadzenPanelMenuItem Text="AssetAttributeValues" Path="asset-attribute-values" />
@@ -37,7 +37,6 @@
             <RadzenPanelMenuItem Text="Depreciations" Path="depreciations" />
             <RadzenPanelMenuItem Text="DisposalRecords" Path="disposal-records" />
             <RadzenPanelMenuItem Text="Documents" Path="documents" />
-            <RadzenPanelMenuItem Text="FixedAssets" Path="fixed-assets" />
             <RadzenPanelMenuItem Text="Locations" Path="locations" />
             <RadzenPanelMenuItem Text="MaintenanceRecords" Path="maintenance-records" />
             <RadzenPanelMenuItem Text="Notifications" Path="notifications" />
