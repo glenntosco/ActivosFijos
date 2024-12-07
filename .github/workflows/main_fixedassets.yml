@@ -53,4 +53,4 @@ jobs:
           app-name: 'FixedAssets'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53A87867EF2D4285AB9317A4AC83F47E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_00388715FAD848B8BFAA67B7FB219D10 }}
