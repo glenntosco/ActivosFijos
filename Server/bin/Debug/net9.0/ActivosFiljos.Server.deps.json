@@ -692,6 +692,15 @@
           "Microsoft.Extensions.Options": "9.0.0"
         }
       },
+      "Microsoft.Extensions.Localization/9.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0",
+          "Microsoft.Extensions.Localization.Abstractions": "9.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.0",
+          "Microsoft.Extensions.Options": "9.0.0"
+        }
+      },
+      "Microsoft.Extensions.Localization.Abstractions/9.0.0": {},
       "Microsoft.Extensions.Logging/9.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "9.0.0",
@@ -1205,6 +1214,7 @@
           "Microsoft.AspNetCore.Components.WebAssembly": "9.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "9.0.0",
           "Microsoft.Extensions.Http": "9.0.0",
+          "Microsoft.Extensions.Localization": "9.0.0",
           "Radzen.Blazor": "5.6.12",
           "System.Net.Http.Json": "9.0.0"
         },
@@ -1572,6 +1582,20 @@
       "sha512": "sha512-DqI4q54U4hH7bIAq9M5a/hl5Odr/KBAoaZ0dcT4OgutD8dook34CbkvAfAIzkMVjYXiL+E5ul9etwwqiX4PHGw==",
       "path": "microsoft.extensions.http/9.0.0",
       "hashPath": "microsoft.extensions.http.9.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Localization/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Up8Juy8Bh+vL+fXmMWsoSg/G6rszmLFiF44aI2tpOMJE7Ln4D9s37YxOOm81am4Z+V7g8Am3AgVwHYJzi+cL/g==",
+      "path": "microsoft.extensions.localization/9.0.0",
+      "hashPath": "microsoft.extensions.localization.9.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Localization.Abstractions/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wc7PaRhPOnio5Csj80b3UgBWA5l6bp28EhGem7gtfpVopcwbkfPb2Sk8Cu6eBnIW3ZNf1YUgYJzwtjzZEM8+iw==",
+      "path": "microsoft.extensions.localization.abstractions/9.0.0",
+      "hashPath": "microsoft.extensions.localization.abstractions.9.0.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Logging/9.0.0": {
       "type": "package",

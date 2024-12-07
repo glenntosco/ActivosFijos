@@ -421,11 +421,9 @@ S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\f32kn295nz-gcvjxldlf
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\f57xp633a4-y0vp0qa9sc.gz
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\sy3eb00zyp-5i9pi43uhj.gz
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\bwywr8s8j9-3xkrxjfff6.gz
-S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\skw2n76jpc-yl5enzacr2.gz
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\cjx86zkza6-rfgkjh06pr.gz
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\25glmo8l3y-z4od4ipeg7.gz
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\puxo3278pk-yei6q65i6b.gz
-S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-z4xbu5kvct.gz
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\staticwebassets.build.json
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\staticwebassets.development.json
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -663,3 +661,5 @@ C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\refint\ActivosFiljos.Ser
 C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\ActivosFiljos.Server.pdb
 C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\ActivosFiljos.Server.genruntimeconfig.cache
 C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\ref\ActivosFiljos.Server.dll
+S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\skw2n76jpc-m6wfvkp0tf.gz
+S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-d8judxxrer.gz

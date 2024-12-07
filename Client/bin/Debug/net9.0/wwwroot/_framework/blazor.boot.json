@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ActivosFiljos.Client",
   "resources": {
-    "hash": "sha256-XhF9FRdi7yYICl4tHYe8w0DWD+++DD/0+lRNG6dfZU4=",
+    "hash": "sha256-9tCl0lPKqikoucRGgcdDdXytDe2gFsQnwfgM/TBgEG0=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -209,8 +209,8 @@
       "dotnet.native.p4lwlf2bu1.wasm": "dotnet.native.wasm",
       "dotnet.runtime.o8gq1i8bk6.js": "dotnet.runtime.js",
       "icudt.oh1zvcfom8.dat": "icudt.dat",
-      "ActivosFiljos.Client.0bik066ldp.wasm": "ActivosFiljos.Client.wasm",
-      "ActivosFiljos.Client.ucsge7l0ij.pdb": "ActivosFiljos.Client.pdb"
+      "ActivosFiljos.Client.dxzlinx4o0.wasm": "ActivosFiljos.Client.wasm",
+      "ActivosFiljos.Client.m676atppqp.pdb": "ActivosFiljos.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -428,10 +428,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "ActivosFiljos.Client.0bik066ldp.wasm": "sha256-VO5q3LY3cDSeUOAOIpYy4fNMPDA+5kMxY4MjYv4xUms="
+      "ActivosFiljos.Client.dxzlinx4o0.wasm": "sha256-3zg8FY6ZuBeYcDlSdbfLrLad+aVsOmMC/59jnCaBf5Q="
     },
     "pdb": {
-      "ActivosFiljos.Client.ucsge7l0ij.pdb": "sha256-cnKYOkD51kbiTyg2KBdP8jrfE15m7DKQAiZE/+XCbZQ="
+      "ActivosFiljos.Client.m676atppqp.pdb": "sha256-3heE3zd8w3gjYtnY3yQCYVlLuDW+cIZ2P6n9A1CdlvM="
     }
   },
   "cacheBootResources": true,

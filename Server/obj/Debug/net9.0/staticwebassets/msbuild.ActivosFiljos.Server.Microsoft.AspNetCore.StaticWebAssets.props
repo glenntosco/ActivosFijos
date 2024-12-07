@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yl5enzacr2</Fingerprint>
-      <Integrity>Gmm/bo2l96aIfq+Ca/gtddFvRGmoQLjjPMXsJ6ghjbY=</Integrity>
+      <Fingerprint>m6wfvkp0tf</Fingerprint>
+      <Integrity>ri/MkQQtQ0RsChDw/NrChsZQ30dnaUwMNSw9qTWH7N4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
@@ -156,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bgum7tafci</Fingerprint>
-      <Integrity>q5442XftRZ5QtOIY07J3WgoNWQZ8uNM6O3pccHqg/gM=</Integrity>
+      <Fingerprint>9yuef46s8z</Fingerprint>
+      <Integrity>MfPys0M0C0VLmBSgzYdhtpRdgVpQOe0lyk2W8hwbv2s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icon-512.png'))</OriginalItemSpec>
@@ -192,8 +192,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lop1o460c8</Fingerprint>
-      <Integrity>u792EaCAVtblt96oQYyqOyPyByu23XtxwZjBbIVf0tw=</Integrity>
+      <Fingerprint>rdk37t1dpx</Fingerprint>
+      <Integrity>ESuAcI9UM3ThNE0Og56QMkDPxPWYvDldjaQG7+f9Z+k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo.png'))</OriginalItemSpec>
@@ -210,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qzya8hwfp1</Fingerprint>
-      <Integrity>pnveHpUQ03ZiZRXh/YHSEGwXO2NMHavlrkbYTvqmJ/I=</Integrity>
+      <Fingerprint>u9g4i95rq2</Fingerprint>
+      <Integrity>YlE+fQvuyQRrh6ep/3kpLFz0ts8j5p4EIuWpgFgVZ/s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo-login.png'))</OriginalItemSpec>
