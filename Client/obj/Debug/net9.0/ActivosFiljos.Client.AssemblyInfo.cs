@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActivosFiljos.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abedce8cbb11f7c49af10c957c9b3d1e6b37190e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee8fa551f20f319bd60f7714a29696d7a15e8ac9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActivosFiljos.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActivosFiljos.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
