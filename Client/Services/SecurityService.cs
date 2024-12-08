@@ -218,5 +218,42 @@ namespace ActivosFiljos.Client
                 throw new ApplicationException(message);
             }
         }
+
+        public async Task Register(string userName, string password)
+        {
+            var uri =  new Uri($"{navigationManager.BaseUri}Account/Register");
+
+            var content = new FormUrlEncodedContent(new Dictionary<string, string> {
+                { "userName", userName },
+                { "password", password }
+            });
+
+            var response = await httpClient.PostAsync(uri, content);
+
+            if (!response.IsSuccessStatusCode)
+            {
+                var message = await response.Content.ReadAsStringAsync();
+
+                throw new ApplicationException(message);
+            }
+        }
+
+        public async Task ResetPassword(string userName)
+        {
+            var uri =  new Uri($"{navigationManager.BaseUri}Account/ResetPassword");
+
+            var content = new FormUrlEncodedContent(new Dictionary<string, string> {
+                { "userName", userName }
+            });
+
+            var response = await httpClient.PostAsync(uri, content);
+
+            if (!response.IsSuccessStatusCode)
+            {
+                var message = await response.Content.ReadAsStringAsync();
+
+                throw new ApplicationException(message);
+            }
+        }
     }
 }

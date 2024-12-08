@@ -53,5 +53,29 @@ namespace ActivosFiljos.Client.Pages
 
             infoVisible = !string.IsNullOrEmpty(info);
         }
+
+        protected async Task Register()
+        {
+            var result = await DialogService.OpenAsync<RegisterApplicationUser>("Register Application User");
+
+            if (result == true)
+            {
+                infoVisible = true;
+
+                info = "Registration accepted. Please check your email for further instructions.";
+            }
+        }
+
+        protected async Task ResetPassword()
+        {
+            var result = await DialogService.OpenAsync<ResetPassword>("Reset password");
+
+            if (result == true)
+            {
+                infoVisible = true;
+
+                info = "Password reset successfully. Please check your email for further instructions.";
+            }
+        }
     }
 }
