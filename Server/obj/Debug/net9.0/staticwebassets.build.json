@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Gu7obBEjEXne3kMREQ3HgFr0yu7/iCswwcSt9N02TGo=",
+  "Hash": "0DEjaeatrJUsGd72wZuQTFNpgz8pGjOJ9elY+z9jhQ4=",
   "Source": "ActivosFiljos.Server",
   "BasePath": "_content/ActivosFiljos.Server",
   "Mode": "Default",
@@ -799,8 +799,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "m5tvdcxwdm",
-      "Integrity": "pm0O1YsGW0DXKqSiiPI2xNdqvKA/3q4UosiKXMqQy+g=",
+      "Fingerprint": "4ixzlhersz",
+      "Integrity": "pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.pdb"
@@ -820,8 +820,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "xddlm2dzpe",
-      "Integrity": "+xowNyd/lFmpCS64J2ASVi9sp+5Lk4GNBLMWeOudR/4=",
+      "Fingerprint": "8ozpzxdtac",
+      "Integrity": "KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm"
@@ -841,8 +841,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "87ww5bvxd0",
-      "Integrity": "/DM9Rm0K8CmGeNIRvjIhpv8C73dvfiflLqZrTis9Dz8=",
+      "Fingerprint": "r5479jz37i",
+      "Integrity": "z9Xe8c36xrcb3y9/t5QrfxM5XePs4X448iRZapfXJsE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -1009,8 +1009,8 @@
       "RelatedAsset": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm",
       "AssetTraitName": "Culture",
       "AssetTraitValue": "en",
-      "Fingerprint": "kb3ou7rusq",
-      "Integrity": "ME/9KzpHhyGGL0FPNG6CXHNgdB5iWQuYNVEhFVQFc44=",
+      "Fingerprint": "ky3ag9rfxp",
+      "Integrity": "dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\en\\ActivosFiljos.Client.resources.wasm"
@@ -1030,8 +1030,8 @@
       "RelatedAsset": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm",
       "AssetTraitName": "Culture",
       "AssetTraitValue": "es-PA",
-      "Fingerprint": "c3ydeu401p",
-      "Integrity": "KMwuXPiWogP6Zi+n6c6btOruO2ZBXADArepK3bnpEm8=",
+      "Fingerprint": "pty4sdddkz",
+      "Integrity": "s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\es-PA\\ActivosFiljos.Client.resources.wasm"
@@ -6056,12 +6056,12 @@
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6izpo2m9dj-cw7lxxyoji.gz"
     },
     {
-      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-kb3ou7rusq.gz",
+      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-ky3ag9rfxp.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Project",
       "ContentRoot": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/en/ActivosFiljos.Client.resources#[.{fingerprint=kb3ou7rusq}]!.wasm.gz",
+      "RelativePath": "_framework/en/ActivosFiljos.Client.resources#[.{fingerprint=ky3ag9rfxp}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6070,11 +6070,11 @@
       "RelatedAsset": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\en\\ActivosFiljos.Client.resources.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1ukahlgl3u",
-      "Integrity": "BxO+CDH6fo617fpowYF0hKSTjrzMG+oFEjh0Cko4x1s=",
+      "Fingerprint": "v3pa2web79",
+      "Integrity": "m/8pe1/XjIId3Gox9rtcAjIDK4FpigHTP8Fegv61ZIE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-kb3ou7rusq.gz"
+      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-ky3ag9rfxp.gz"
     },
     {
       "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6sc5ytgt3u-o0184ey5ia.gz",
@@ -6770,7 +6770,7 @@
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\ah3l1cxadp-8hunc8w9tt.gz"
     },
     {
-      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-87ww5bvxd0.gz",
+      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-r5479jz37i.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Project",
       "ContentRoot": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -6784,11 +6784,11 @@
       "RelatedAsset": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "c5t5h8arvb",
-      "Integrity": "0FMfPy4B5zNgDBsfyNb7+jsyRruhMFOlNJJzCDNEB0I=",
+      "Fingerprint": "3b8fbvtn97",
+      "Integrity": "zy7ggKRWvjYLDkCNeV1hwtRRqnvFdcKW82pfiE2Cxfw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-87ww5bvxd0.gz"
+      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-r5479jz37i.gz"
     },
     {
       "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\ar2zoafhq7-iv1kot37bt.gz",
@@ -8324,12 +8324,12 @@
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o4quw6j3zg-b52fpy12b9.gz"
     },
     {
-      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-xddlm2dzpe.gz",
+      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-8ozpzxdtac.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Project",
       "ContentRoot": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ActivosFiljos.Client#[.{fingerprint=xddlm2dzpe}]!.wasm.gz",
+      "RelativePath": "_framework/ActivosFiljos.Client#[.{fingerprint=8ozpzxdtac}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8338,11 +8338,11 @@
       "RelatedAsset": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gdb0z2xqoh",
-      "Integrity": "lBR2hqg4SvojZQleCS+RHTXNrKzgFkbjCQRk5n6R0sI=",
+      "Fingerprint": "zfdsfvyj2b",
+      "Integrity": "D167XADpXsJ6xsclUrEwuCPxrXKwWa1JJ08S0NNUWeE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-xddlm2dzpe.gz"
+      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-8ozpzxdtac.gz"
     },
     {
       "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\ohunb7fiay-q5if44af42.gz",
@@ -8450,12 +8450,12 @@
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\owv4eemmpp-mysczqf347.gz"
     },
     {
-      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-m5tvdcxwdm.gz",
+      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-4ixzlhersz.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Project",
       "ContentRoot": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ActivosFiljos.Client#[.{fingerprint=m5tvdcxwdm}]!.pdb.gz",
+      "RelativePath": "_framework/ActivosFiljos.Client#[.{fingerprint=4ixzlhersz}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8464,19 +8464,19 @@
       "RelatedAsset": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8eyrasi2rq",
-      "Integrity": "ID+TNI9gzYDe06+sJfJ87DFSye2q9LDwmr0agkfdBgA=",
+      "Fingerprint": "3cs0vbwqtx",
+      "Integrity": "c5rl9U3LCXoZ/1/I1PxoT/lqO4wMd8GD7l9o1NO2ck0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-m5tvdcxwdm.gz"
+      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-4ixzlhersz.gz"
     },
     {
-      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-c3ydeu401p.gz",
+      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-pty4sdddkz.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Project",
       "ContentRoot": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/es-PA/ActivosFiljos.Client.resources#[.{fingerprint=c3ydeu401p}]!.wasm.gz",
+      "RelativePath": "_framework/es-PA/ActivosFiljos.Client.resources#[.{fingerprint=pty4sdddkz}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8485,11 +8485,11 @@
       "RelatedAsset": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\es-PA\\ActivosFiljos.Client.resources.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mbm7tolafg",
-      "Integrity": "PiZ61gNe9N3fW9+gDjDPP9gdxuFz8+NaDihBvp49KK4=",
+      "Fingerprint": "577siodw6a",
+      "Integrity": "j2olGMLGujT3bpmai8LXa5sj1q4xN1VNKG3KcVbfRBY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-c3ydeu401p.gz"
+      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-pty4sdddkz.gz"
     },
     {
       "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p93b9ddu2i-2evfqr3o05.gz",
@@ -9563,7 +9563,7 @@
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\ykj2hdqshc-lkwa1y52xd.gz"
     },
     {
-      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-07exmzv4ha.gz",
+      "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-uuhixaklu3.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Project",
       "ContentRoot": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -9577,11 +9577,11 @@
       "RelatedAsset": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ew9dcby1j9",
-      "Integrity": "XmuXnRAJadBhDsEDcTpylpI10FKnaWrqxeJ4JleUGhY=",
+      "Fingerprint": "pj568tthg9",
+      "Integrity": "lQ2Bz3oZca8EtC81YaEUsKz86F6L2n5fw5GumfPFCQk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-07exmzv4ha.gz"
+      "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-uuhixaklu3.gz"
     },
     {
       "Identity": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\z2rkxfcy5j-cnk9vmuw7e.gz",
@@ -9808,8 +9808,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "07exmzv4ha",
-      "Integrity": "HPj0ndGnFJlYAtiQ/DOGo9MrwZFP9dmD098YIGfw9XE=",
+      "Fingerprint": "uuhixaklu3",
+      "Integrity": "5tMXaMASIzgHYDJ25Dp0ZGk4t9k5updEbKbaR0OACgs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -9829,8 +9829,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "m32nool4y4",
-      "Integrity": "YjJOhNOfxJBk5jyQ0ekIBmrpNMmtZIPUOAs6QRYbAws=",
+      "Fingerprint": "220bye9z4e",
+      "Integrity": "Cn/KV0IaU04HOIrb53rgHrBkmgDxAam5j7D1eDAW9x0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker.js.build"
@@ -10235,7 +10235,7 @@
       "OriginalItemSpec": "C:\\Users\\GlennTosco\\.nuget\\packages\\radzen.blazor\\5.6.12\\staticwebassets\\css\\software-dark.css"
     },
     {
-      "Identity": "S:\\Projects\\ActivosFijos\\Server\\obj\\Debug\\net9.0\\compressed\\gsaho0fopw-m32nool4y4.gz",
+      "Identity": "S:\\Projects\\ActivosFijos\\Server\\obj\\Debug\\net9.0\\compressed\\gsaho0fopw-220bye9z4e.gz",
       "SourceId": "ActivosFiljos.Client",
       "SourceType": "Project",
       "ContentRoot": "S:\\Projects\\ActivosFijos\\Server\\obj\\Debug\\net9.0\\compressed\\",
@@ -10249,8 +10249,8 @@
       "RelatedAsset": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "s064noad9m",
-      "Integrity": "fK5ge/S5KwdYYZixkSgeNJwUzB6ng9BlX3WCoVhZhiA=",
+      "Fingerprint": "wri7hzfp1t",
+      "Integrity": "NFhXoqc4P8f01XaH4Ap4EwPKMpfW4lU+QIRlCTdWgSs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker.js.build"
@@ -17100,7 +17100,7 @@
       ]
     },
     {
-      "Route": "_framework/ActivosFiljos.Client.m5tvdcxwdm.pdb",
+      "Route": "_framework/ActivosFiljos.Client.4ixzlhersz.pdb",
       "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17114,7 +17114,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "423496"
+          "Value": "425060"
         },
         {
           "Name": "Content-Type",
@@ -17122,21 +17122,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pm0O1YsGW0DXKqSiiPI2xNdqvKA/3q4UosiKXMqQy+g=\""
+          "Value": "\"pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:00 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m5tvdcxwdm"
+          "Value": "4ixzlhersz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pm0O1YsGW0DXKqSiiPI2xNdqvKA/3q4UosiKXMqQy+g="
+          "Value": "sha256-pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY="
         },
         {
           "Name": "label",
@@ -17145,13 +17145,13 @@
       ]
     },
     {
-      "Route": "_framework/ActivosFiljos.Client.m5tvdcxwdm.pdb",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-m5tvdcxwdm.gz",
+      "Route": "_framework/ActivosFiljos.Client.4ixzlhersz.pdb",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-4ixzlhersz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000003138594"
+          "Quality": "0.000003120115"
         }
       ],
       "ResponseHeaders": [
@@ -17169,15 +17169,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318613"
+          "Value": "320500"
         },
         {
           "Name": "ETag",
-          "Value": "\"ID+TNI9gzYDe06+sJfJ87DFSye2q9LDwmr0agkfdBgA=\""
+          "Value": "\"c5rl9U3LCXoZ/1/I1PxoT/lqO4wMd8GD7l9o1NO2ck0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -17189,17 +17189,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pm0O1YsGW0DXKqSiiPI2xNdqvKA/3q4UosiKXMqQy+g=\""
+          "Value": "W/\"pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m5tvdcxwdm"
+          "Value": "4ixzlhersz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pm0O1YsGW0DXKqSiiPI2xNdqvKA/3q4UosiKXMqQy+g="
+          "Value": "sha256-pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY="
         },
         {
           "Name": "label",
@@ -17208,8 +17208,8 @@
       ]
     },
     {
-      "Route": "_framework/ActivosFiljos.Client.m5tvdcxwdm.pdb.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-m5tvdcxwdm.gz",
+      "Route": "_framework/ActivosFiljos.Client.4ixzlhersz.pdb.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-4ixzlhersz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17226,7 +17226,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318613"
+          "Value": "320500"
         },
         {
           "Name": "Content-Type",
@@ -17234,11 +17234,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ID+TNI9gzYDe06+sJfJ87DFSye2q9LDwmr0agkfdBgA=\""
+          "Value": "\"c5rl9U3LCXoZ/1/I1PxoT/lqO4wMd8GD7l9o1NO2ck0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -17248,11 +17248,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m5tvdcxwdm"
+          "Value": "4ixzlhersz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ID+TNI9gzYDe06+sJfJ87DFSye2q9LDwmr0agkfdBgA="
+          "Value": "sha256-c5rl9U3LCXoZ/1/I1PxoT/lqO4wMd8GD7l9o1NO2ck0="
         },
         {
           "Name": "label",
@@ -17261,6 +17261,167 @@
       ]
     },
     {
+      "Route": "_framework/ActivosFiljos.Client.8ozpzxdtac.wasm",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "888597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 19:54:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ozpzxdtac"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ActivosFiljos.Client.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.8ozpzxdtac.wasm",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-8ozpzxdtac.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000004667902"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D167XADpXsJ6xsclUrEwuCPxrXKwWa1JJ08S0NNUWeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ozpzxdtac"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ActivosFiljos.Client.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.8ozpzxdtac.wasm.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-8ozpzxdtac.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D167XADpXsJ6xsclUrEwuCPxrXKwWa1JJ08S0NNUWeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ozpzxdtac"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D167XADpXsJ6xsclUrEwuCPxrXKwWa1JJ08S0NNUWeE="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ActivosFiljos.Client.wasm.gz"
+        }
+      ]
+    },
+    {
       "Route": "_framework/ActivosFiljos.Client.pdb",
       "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.pdb",
       "Selectors": [],
@@ -17275,7 +17436,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "423496"
+          "Value": "425060"
         },
         {
           "Name": "Content-Type",
@@ -17283,28 +17444,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pm0O1YsGW0DXKqSiiPI2xNdqvKA/3q4UosiKXMqQy+g=\""
+          "Value": "\"pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:00 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pm0O1YsGW0DXKqSiiPI2xNdqvKA/3q4UosiKXMqQy+g="
+          "Value": "sha256-pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY="
         }
       ]
     },
     {
       "Route": "_framework/ActivosFiljos.Client.pdb",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-m5tvdcxwdm.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-4ixzlhersz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000003138594"
+          "Quality": "0.000003120115"
         }
       ],
       "ResponseHeaders": [
@@ -17322,15 +17483,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318613"
+          "Value": "320500"
         },
         {
           "Name": "ETag",
-          "Value": "\"ID+TNI9gzYDe06+sJfJ87DFSye2q9LDwmr0agkfdBgA=\""
+          "Value": "\"c5rl9U3LCXoZ/1/I1PxoT/lqO4wMd8GD7l9o1NO2ck0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -17342,19 +17503,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pm0O1YsGW0DXKqSiiPI2xNdqvKA/3q4UosiKXMqQy+g=\""
+          "Value": "W/\"pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pm0O1YsGW0DXKqSiiPI2xNdqvKA/3q4UosiKXMqQy+g="
+          "Value": "sha256-pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY="
         }
       ]
     },
     {
       "Route": "_framework/ActivosFiljos.Client.pdb.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-m5tvdcxwdm.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\oy9tc384ce-4ixzlhersz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17371,7 +17532,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318613"
+          "Value": "320500"
         },
         {
           "Name": "Content-Type",
@@ -17379,11 +17540,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ID+TNI9gzYDe06+sJfJ87DFSye2q9LDwmr0agkfdBgA=\""
+          "Value": "\"c5rl9U3LCXoZ/1/I1PxoT/lqO4wMd8GD7l9o1NO2ck0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -17393,7 +17554,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ID+TNI9gzYDe06+sJfJ87DFSye2q9LDwmr0agkfdBgA="
+          "Value": "sha256-c5rl9U3LCXoZ/1/I1PxoT/lqO4wMd8GD7l9o1NO2ck0="
         }
       ]
     },
@@ -17412,7 +17573,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "890645"
+          "Value": "888597"
         },
         {
           "Name": "Content-Type",
@@ -17420,28 +17581,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+xowNyd/lFmpCS64J2ASVi9sp+5Lk4GNBLMWeOudR/4=\""
+          "Value": "\"KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:01 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+xowNyd/lFmpCS64J2ASVi9sp+5Lk4GNBLMWeOudR/4="
+          "Value": "sha256-KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24="
         }
       ]
     },
     {
       "Route": "_framework/ActivosFiljos.Client.wasm",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-xddlm2dzpe.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-8ozpzxdtac.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000004664070"
+          "Quality": "0.000004667902"
         }
       ],
       "ResponseHeaders": [
@@ -17459,15 +17620,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "214404"
+          "Value": "214228"
         },
         {
           "Name": "ETag",
-          "Value": "\"lBR2hqg4SvojZQleCS+RHTXNrKzgFkbjCQRk5n6R0sI=\""
+          "Value": "\"D167XADpXsJ6xsclUrEwuCPxrXKwWa1JJ08S0NNUWeE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -17479,19 +17640,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+xowNyd/lFmpCS64J2ASVi9sp+5Lk4GNBLMWeOudR/4=\""
+          "Value": "W/\"KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+xowNyd/lFmpCS64J2ASVi9sp+5Lk4GNBLMWeOudR/4="
+          "Value": "sha256-KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24="
         }
       ]
     },
     {
       "Route": "_framework/ActivosFiljos.Client.wasm.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-xddlm2dzpe.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-8ozpzxdtac.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17508,7 +17669,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "214404"
+          "Value": "214228"
         },
         {
           "Name": "Content-Type",
@@ -17516,11 +17677,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lBR2hqg4SvojZQleCS+RHTXNrKzgFkbjCQRk5n6R0sI=\""
+          "Value": "\"D167XADpXsJ6xsclUrEwuCPxrXKwWa1JJ08S0NNUWeE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -17530,168 +17691,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lBR2hqg4SvojZQleCS+RHTXNrKzgFkbjCQRk5n6R0sI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.xddlm2dzpe.wasm",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ActivosFiljos.Client.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "890645"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+xowNyd/lFmpCS64J2ASVi9sp+5Lk4GNBLMWeOudR/4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:01 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xddlm2dzpe"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+xowNyd/lFmpCS64J2ASVi9sp+5Lk4GNBLMWeOudR/4="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ActivosFiljos.Client.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.xddlm2dzpe.wasm",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-xddlm2dzpe.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000004664070"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "214404"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lBR2hqg4SvojZQleCS+RHTXNrKzgFkbjCQRk5n6R0sI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"+xowNyd/lFmpCS64J2ASVi9sp+5Lk4GNBLMWeOudR/4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xddlm2dzpe"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+xowNyd/lFmpCS64J2ASVi9sp+5Lk4GNBLMWeOudR/4="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ActivosFiljos.Client.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.xddlm2dzpe.wasm.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\o9l5cf3rwo-xddlm2dzpe.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "214404"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lBR2hqg4SvojZQleCS+RHTXNrKzgFkbjCQRk5n6R0sI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xddlm2dzpe"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lBR2hqg4SvojZQleCS+RHTXNrKzgFkbjCQRk5n6R0sI="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ActivosFiljos.Client.wasm.gz"
+          "Value": "sha256-D167XADpXsJ6xsclUrEwuCPxrXKwWa1JJ08S0NNUWeE="
         }
       ]
     },
@@ -17718,28 +17718,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/DM9Rm0K8CmGeNIRvjIhpv8C73dvfiflLqZrTis9Dz8=\""
+          "Value": "\"z9Xe8c36xrcb3y9/t5QrfxM5XePs4X448iRZapfXJsE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:09 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:28 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/DM9Rm0K8CmGeNIRvjIhpv8C73dvfiflLqZrTis9Dz8="
+          "Value": "sha256-z9Xe8c36xrcb3y9/t5QrfxM5XePs4X448iRZapfXJsE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-87ww5bvxd0.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-r5479jz37i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000077333540"
+          "Quality": "0.000077321580"
         }
       ],
       "ResponseHeaders": [
@@ -17757,15 +17757,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12930"
+          "Value": "12932"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FMfPy4B5zNgDBsfyNb7+jsyRruhMFOlNJJzCDNEB0I=\""
+          "Value": "\"zy7ggKRWvjYLDkCNeV1hwtRRqnvFdcKW82pfiE2Cxfw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -17777,19 +17777,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/DM9Rm0K8CmGeNIRvjIhpv8C73dvfiflLqZrTis9Dz8=\""
+          "Value": "W/\"z9Xe8c36xrcb3y9/t5QrfxM5XePs4X448iRZapfXJsE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/DM9Rm0K8CmGeNIRvjIhpv8C73dvfiflLqZrTis9Dz8="
+          "Value": "sha256-z9Xe8c36xrcb3y9/t5QrfxM5XePs4X448iRZapfXJsE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-87ww5bvxd0.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\apdltlvrkk-r5479jz37i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17806,7 +17806,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12930"
+          "Value": "12932"
         },
         {
           "Name": "Content-Type",
@@ -17814,11 +17814,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FMfPy4B5zNgDBsfyNb7+jsyRruhMFOlNJJzCDNEB0I=\""
+          "Value": "\"zy7ggKRWvjYLDkCNeV1hwtRRqnvFdcKW82pfiE2Cxfw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -17828,7 +17828,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0FMfPy4B5zNgDBsfyNb7+jsyRruhMFOlNJJzCDNEB0I="
+          "Value": "sha256-zy7ggKRWvjYLDkCNeV1hwtRRqnvFdcKW82pfiE2Cxfw="
         }
       ]
     },
@@ -19758,7 +19758,7 @@
       ]
     },
     {
-      "Route": "_framework/en/ActivosFiljos.Client.resources.kb3ou7rusq.wasm",
+      "Route": "_framework/en/ActivosFiljos.Client.resources.ky3ag9rfxp.wasm",
       "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\en\\ActivosFiljos.Client.resources.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -19780,21 +19780,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ME/9KzpHhyGGL0FPNG6CXHNgdB5iWQuYNVEhFVQFc44=\""
+          "Value": "\"dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:01 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kb3ou7rusq"
+          "Value": "ky3ag9rfxp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ME/9KzpHhyGGL0FPNG6CXHNgdB5iWQuYNVEhFVQFc44="
+          "Value": "sha256-dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI="
         },
         {
           "Name": "label",
@@ -19803,13 +19803,13 @@
       ]
     },
     {
-      "Route": "_framework/en/ActivosFiljos.Client.resources.kb3ou7rusq.wasm",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-kb3ou7rusq.gz",
+      "Route": "_framework/en/ActivosFiljos.Client.resources.ky3ag9rfxp.wasm",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-ky3ag9rfxp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000710227273"
+          "Quality": "0.000711237553"
         }
       ],
       "ResponseHeaders": [
@@ -19827,15 +19827,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1407"
+          "Value": "1405"
         },
         {
           "Name": "ETag",
-          "Value": "\"BxO+CDH6fo617fpowYF0hKSTjrzMG+oFEjh0Cko4x1s=\""
+          "Value": "\"m/8pe1/XjIId3Gox9rtcAjIDK4FpigHTP8Fegv61ZIE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -19847,17 +19847,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ME/9KzpHhyGGL0FPNG6CXHNgdB5iWQuYNVEhFVQFc44=\""
+          "Value": "W/\"dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kb3ou7rusq"
+          "Value": "ky3ag9rfxp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ME/9KzpHhyGGL0FPNG6CXHNgdB5iWQuYNVEhFVQFc44="
+          "Value": "sha256-dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI="
         },
         {
           "Name": "label",
@@ -19866,8 +19866,8 @@
       ]
     },
     {
-      "Route": "_framework/en/ActivosFiljos.Client.resources.kb3ou7rusq.wasm.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-kb3ou7rusq.gz",
+      "Route": "_framework/en/ActivosFiljos.Client.resources.ky3ag9rfxp.wasm.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-ky3ag9rfxp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19884,7 +19884,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1407"
+          "Value": "1405"
         },
         {
           "Name": "Content-Type",
@@ -19892,11 +19892,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BxO+CDH6fo617fpowYF0hKSTjrzMG+oFEjh0Cko4x1s=\""
+          "Value": "\"m/8pe1/XjIId3Gox9rtcAjIDK4FpigHTP8Fegv61ZIE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -19906,11 +19906,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kb3ou7rusq"
+          "Value": "ky3ag9rfxp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BxO+CDH6fo617fpowYF0hKSTjrzMG+oFEjh0Cko4x1s="
+          "Value": "sha256-m/8pe1/XjIId3Gox9rtcAjIDK4FpigHTP8Fegv61ZIE="
         },
         {
           "Name": "label",
@@ -19941,28 +19941,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ME/9KzpHhyGGL0FPNG6CXHNgdB5iWQuYNVEhFVQFc44=\""
+          "Value": "\"dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:01 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ME/9KzpHhyGGL0FPNG6CXHNgdB5iWQuYNVEhFVQFc44="
+          "Value": "sha256-dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI="
         }
       ]
     },
     {
       "Route": "_framework/en/ActivosFiljos.Client.resources.wasm",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-kb3ou7rusq.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-ky3ag9rfxp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000710227273"
+          "Quality": "0.000711237553"
         }
       ],
       "ResponseHeaders": [
@@ -19980,15 +19980,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1407"
+          "Value": "1405"
         },
         {
           "Name": "ETag",
-          "Value": "\"BxO+CDH6fo617fpowYF0hKSTjrzMG+oFEjh0Cko4x1s=\""
+          "Value": "\"m/8pe1/XjIId3Gox9rtcAjIDK4FpigHTP8Fegv61ZIE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -20000,19 +20000,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ME/9KzpHhyGGL0FPNG6CXHNgdB5iWQuYNVEhFVQFc44=\""
+          "Value": "W/\"dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ME/9KzpHhyGGL0FPNG6CXHNgdB5iWQuYNVEhFVQFc44="
+          "Value": "sha256-dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI="
         }
       ]
     },
     {
       "Route": "_framework/en/ActivosFiljos.Client.resources.wasm.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-kb3ou7rusq.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\6qp0c6jczp-ky3ag9rfxp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20029,7 +20029,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1407"
+          "Value": "1405"
         },
         {
           "Name": "Content-Type",
@@ -20037,11 +20037,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BxO+CDH6fo617fpowYF0hKSTjrzMG+oFEjh0Cko4x1s=\""
+          "Value": "\"m/8pe1/XjIId3Gox9rtcAjIDK4FpigHTP8Fegv61ZIE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -20051,12 +20051,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BxO+CDH6fo617fpowYF0hKSTjrzMG+oFEjh0Cko4x1s="
+          "Value": "sha256-m/8pe1/XjIId3Gox9rtcAjIDK4FpigHTP8Fegv61ZIE="
         }
       ]
     },
     {
-      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.c3ydeu401p.wasm",
+      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.pty4sdddkz.wasm",
       "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\es-PA\\ActivosFiljos.Client.resources.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -20078,21 +20078,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KMwuXPiWogP6Zi+n6c6btOruO2ZBXADArepK3bnpEm8=\""
+          "Value": "\"s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:01 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3ydeu401p"
+          "Value": "pty4sdddkz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KMwuXPiWogP6Zi+n6c6btOruO2ZBXADArepK3bnpEm8="
+          "Value": "sha256-s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA="
         },
         {
           "Name": "label",
@@ -20101,13 +20101,13 @@
       ]
     },
     {
-      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.c3ydeu401p.wasm",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-c3ydeu401p.gz",
+      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.pty4sdddkz.wasm",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-pty4sdddkz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000705218618"
+          "Quality": "0.000706214689"
         }
       ],
       "ResponseHeaders": [
@@ -20125,15 +20125,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1417"
+          "Value": "1415"
         },
         {
           "Name": "ETag",
-          "Value": "\"PiZ61gNe9N3fW9+gDjDPP9gdxuFz8+NaDihBvp49KK4=\""
+          "Value": "\"j2olGMLGujT3bpmai8LXa5sj1q4xN1VNKG3KcVbfRBY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -20145,17 +20145,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KMwuXPiWogP6Zi+n6c6btOruO2ZBXADArepK3bnpEm8=\""
+          "Value": "W/\"s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3ydeu401p"
+          "Value": "pty4sdddkz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KMwuXPiWogP6Zi+n6c6btOruO2ZBXADArepK3bnpEm8="
+          "Value": "sha256-s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA="
         },
         {
           "Name": "label",
@@ -20164,8 +20164,8 @@
       ]
     },
     {
-      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.c3ydeu401p.wasm.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-c3ydeu401p.gz",
+      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.pty4sdddkz.wasm.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-pty4sdddkz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20182,7 +20182,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1417"
+          "Value": "1415"
         },
         {
           "Name": "Content-Type",
@@ -20190,11 +20190,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PiZ61gNe9N3fW9+gDjDPP9gdxuFz8+NaDihBvp49KK4=\""
+          "Value": "\"j2olGMLGujT3bpmai8LXa5sj1q4xN1VNKG3KcVbfRBY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -20204,11 +20204,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3ydeu401p"
+          "Value": "pty4sdddkz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PiZ61gNe9N3fW9+gDjDPP9gdxuFz8+NaDihBvp49KK4="
+          "Value": "sha256-j2olGMLGujT3bpmai8LXa5sj1q4xN1VNKG3KcVbfRBY="
         },
         {
           "Name": "label",
@@ -20239,28 +20239,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KMwuXPiWogP6Zi+n6c6btOruO2ZBXADArepK3bnpEm8=\""
+          "Value": "\"s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:01 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KMwuXPiWogP6Zi+n6c6btOruO2ZBXADArepK3bnpEm8="
+          "Value": "sha256-s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA="
         }
       ]
     },
     {
       "Route": "_framework/es-PA/ActivosFiljos.Client.resources.wasm",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-c3ydeu401p.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-pty4sdddkz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000705218618"
+          "Quality": "0.000706214689"
         }
       ],
       "ResponseHeaders": [
@@ -20278,15 +20278,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1417"
+          "Value": "1415"
         },
         {
           "Name": "ETag",
-          "Value": "\"PiZ61gNe9N3fW9+gDjDPP9gdxuFz8+NaDihBvp49KK4=\""
+          "Value": "\"j2olGMLGujT3bpmai8LXa5sj1q4xN1VNKG3KcVbfRBY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -20298,19 +20298,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KMwuXPiWogP6Zi+n6c6btOruO2ZBXADArepK3bnpEm8=\""
+          "Value": "W/\"s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KMwuXPiWogP6Zi+n6c6btOruO2ZBXADArepK3bnpEm8="
+          "Value": "sha256-s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA="
         }
       ]
     },
     {
       "Route": "_framework/es-PA/ActivosFiljos.Client.resources.wasm.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-c3ydeu401p.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\p83y612zme-pty4sdddkz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20327,7 +20327,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1417"
+          "Value": "1415"
         },
         {
           "Name": "Content-Type",
@@ -20335,11 +20335,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PiZ61gNe9N3fW9+gDjDPP9gdxuFz8+NaDihBvp49KK4=\""
+          "Value": "\"j2olGMLGujT3bpmai8LXa5sj1q4xN1VNKG3KcVbfRBY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -20349,7 +20349,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PiZ61gNe9N3fW9+gDjDPP9gdxuFz8+NaDihBvp49KK4="
+          "Value": "sha256-j2olGMLGujT3bpmai8LXa5sj1q4xN1VNKG3KcVbfRBY="
         }
       ]
     },
@@ -80572,7 +80572,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YjJOhNOfxJBk5jyQ0ekIBmrpNMmtZIPUOAs6QRYbAws=\""
+          "Value": "\"Cn/KV0IaU04HOIrb53rgHrBkmgDxAam5j7D1eDAW9x0=\""
         },
         {
           "Name": "Last-Modified",
@@ -80582,18 +80582,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YjJOhNOfxJBk5jyQ0ekIBmrpNMmtZIPUOAs6QRYbAws="
+          "Value": "sha256-Cn/KV0IaU04HOIrb53rgHrBkmgDxAam5j7D1eDAW9x0="
         }
       ]
     },
     {
       "Route": "../Server/wwwroot/service-worker.js",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Server\\obj\\Debug\\net9.0\\compressed\\gsaho0fopw-m32nool4y4.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Server\\obj\\Debug\\net9.0\\compressed\\gsaho0fopw-220bye9z4e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004291845494"
+          "Quality": "0.004237288136"
         }
       ],
       "ResponseHeaders": [
@@ -80603,15 +80603,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "232"
+          "Value": "235"
         },
         {
           "Name": "ETag",
-          "Value": "\"fK5ge/S5KwdYYZixkSgeNJwUzB6ng9BlX3WCoVhZhiA=\""
+          "Value": "\"NFhXoqc4P8f01XaH4Ap4EwPKMpfW4lU+QIRlCTdWgSs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80631,19 +80631,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YjJOhNOfxJBk5jyQ0ekIBmrpNMmtZIPUOAs6QRYbAws=\""
+          "Value": "W/\"Cn/KV0IaU04HOIrb53rgHrBkmgDxAam5j7D1eDAW9x0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YjJOhNOfxJBk5jyQ0ekIBmrpNMmtZIPUOAs6QRYbAws="
+          "Value": "sha256-Cn/KV0IaU04HOIrb53rgHrBkmgDxAam5j7D1eDAW9x0="
         }
       ]
     },
     {
       "Route": "../Server/wwwroot/service-worker.js.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Server\\obj\\Debug\\net9.0\\compressed\\gsaho0fopw-m32nool4y4.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Server\\obj\\Debug\\net9.0\\compressed\\gsaho0fopw-220bye9z4e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -80652,7 +80652,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "232"
+          "Value": "235"
         },
         {
           "Name": "Content-Type",
@@ -80660,11 +80660,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fK5ge/S5KwdYYZixkSgeNJwUzB6ng9BlX3WCoVhZhiA=\""
+          "Value": "\"NFhXoqc4P8f01XaH4Ap4EwPKMpfW4lU+QIRlCTdWgSs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80682,7 +80682,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fK5ge/S5KwdYYZixkSgeNJwUzB6ng9BlX3WCoVhZhiA="
+          "Value": "sha256-NFhXoqc4P8f01XaH4Ap4EwPKMpfW4lU+QIRlCTdWgSs="
         }
       ]
     },
@@ -82834,12 +82834,12 @@
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-07exmzv4ha.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-uuhixaklu3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079586152"
+          "Quality": "0.000079579819"
         }
       ],
       "ResponseHeaders": [
@@ -82857,15 +82857,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12564"
+          "Value": "12565"
         },
         {
           "Name": "ETag",
-          "Value": "\"XmuXnRAJadBhDsEDcTpylpI10FKnaWrqxeJ4JleUGhY=\""
+          "Value": "\"lQ2Bz3oZca8EtC81YaEUsKz86F6L2n5fw5GumfPFCQk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -82877,13 +82877,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HPj0ndGnFJlYAtiQ/DOGo9MrwZFP9dmD098YIGfw9XE=\""
+          "Value": "W/\"5tMXaMASIzgHYDJ25Dp0ZGk4t9k5updEbKbaR0OACgs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HPj0ndGnFJlYAtiQ/DOGo9MrwZFP9dmD098YIGfw9XE="
+          "Value": "sha256-5tMXaMASIzgHYDJ25Dp0ZGk4t9k5updEbKbaR0OACgs="
         }
       ]
     },
@@ -82910,23 +82910,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HPj0ndGnFJlYAtiQ/DOGo9MrwZFP9dmD098YIGfw9XE=\""
+          "Value": "\"5tMXaMASIzgHYDJ25Dp0ZGk4t9k5updEbKbaR0OACgs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HPj0ndGnFJlYAtiQ/DOGo9MrwZFP9dmD098YIGfw9XE="
+          "Value": "sha256-5tMXaMASIzgHYDJ25Dp0ZGk4t9k5updEbKbaR0OACgs="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-07exmzv4ha.gz",
+      "AssetFile": "S:\\Projects\\ActivosFijos\\Client\\obj\\Debug\\net9.0\\compressed\\yscnpdjied-uuhixaklu3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82943,7 +82943,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12564"
+          "Value": "12565"
         },
         {
           "Name": "Content-Type",
@@ -82951,11 +82951,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XmuXnRAJadBhDsEDcTpylpI10FKnaWrqxeJ4JleUGhY=\""
+          "Value": "\"lQ2Bz3oZca8EtC81YaEUsKz86F6L2n5fw5GumfPFCQk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 12:57:03 GMT"
+          "Value": "Sun, 08 Dec 2024 19:54:24 GMT"
         },
         {
           "Name": "Vary",
@@ -82965,7 +82965,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XmuXnRAJadBhDsEDcTpylpI10FKnaWrqxeJ4JleUGhY="
+          "Value": "sha256-lQ2Bz3oZca8EtC81YaEUsKz86F6L2n5fw5GumfPFCQk="
         }
       ]
     },

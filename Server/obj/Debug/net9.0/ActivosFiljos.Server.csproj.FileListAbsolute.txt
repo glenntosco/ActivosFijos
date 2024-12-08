@@ -666,4 +666,4 @@ C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\compressed\skw2n76jpc-m6
 C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-02c4j43m5t.gz
 S:\Projects\ActivosFijos\Server\bin\Debug\net9.0\en\ActivosFiljos.Client.resources.dll
 S:\Projects\ActivosFijos\Server\bin\Debug\net9.0\es-PA\ActivosFiljos.Client.resources.dll
-S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-m32nool4y4.gz
+S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-220bye9z4e.gz

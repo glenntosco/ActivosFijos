@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "pdJOomSN",
+  "version": "CNh8RCGz",
   "assets": [
     {
       "hash": "sha256-kJXKqRCleT/Jk1wJUhUu24r2LAA7IWVYmdoENizE38M=",
@@ -146,12 +146,12 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-pm0O1YsGW0DXKqSiiPI2xNdqvKA/3q4UosiKXMqQy+g=",
-      "url": "_framework/ActivosFiljos.Client.m5tvdcxwdm.pdb"
+      "hash": "sha256-pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY=",
+      "url": "_framework/ActivosFiljos.Client.4ixzlhersz.pdb"
     },
     {
-      "hash": "sha256-+xowNyd/lFmpCS64J2ASVi9sp+5Lk4GNBLMWeOudR/4=",
-      "url": "_framework/ActivosFiljos.Client.xddlm2dzpe.wasm"
+      "hash": "sha256-KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24=",
+      "url": "_framework/ActivosFiljos.Client.8ozpzxdtac.wasm"
     },
     {
       "hash": "sha256-8hTdrmR59LAJRrDu8LLRlNn641/iWIAjzG1GcCsAhR0=",
@@ -950,7 +950,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.377bly7twj.wasm"
     },
     {
-      "hash": "sha256-/DM9Rm0K8CmGeNIRvjIhpv8C73dvfiflLqZrTis9Dz8=",
+      "hash": "sha256-z9Xe8c36xrcb3y9/t5QrfxM5XePs4X448iRZapfXJsE=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -982,12 +982,12 @@ self.assetsManifest = {
       "url": "_framework/dotnet.runtime.o8gq1i8bk6.js"
     },
     {
-      "hash": "sha256-ME/9KzpHhyGGL0FPNG6CXHNgdB5iWQuYNVEhFVQFc44=",
-      "url": "_framework/en/ActivosFiljos.Client.resources.kb3ou7rusq.wasm"
+      "hash": "sha256-dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI=",
+      "url": "_framework/en/ActivosFiljos.Client.resources.ky3ag9rfxp.wasm"
     },
     {
-      "hash": "sha256-KMwuXPiWogP6Zi+n6c6btOruO2ZBXADArepK3bnpEm8=",
-      "url": "_framework/es-PA/ActivosFiljos.Client.resources.c3ydeu401p.wasm"
+      "hash": "sha256-s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA=",
+      "url": "_framework/es-PA/ActivosFiljos.Client.resources.pty4sdddkz.wasm"
     },
     {
       "hash": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=",
