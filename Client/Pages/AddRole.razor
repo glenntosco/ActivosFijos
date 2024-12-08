@@ -1,6 +1,7 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<AddRole> L
-@page "/add-role"
-@attribute [Authorize]
+@page "/add-role"
+
+@attribute [Authorize(Roles="Administrator")]
 
 <PageTitle>Add Role</PageTitle>
     <RadzenColumn SizeMD=12>
