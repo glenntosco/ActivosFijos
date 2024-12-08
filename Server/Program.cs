@@ -70,6 +70,61 @@ builder.Services.AddControllers().AddOData(o =>
 });
 builder.Services.AddScoped<AuthenticationStateProvider, ActivosFiljos.Client.ApplicationAuthenticationStateProvider>();
 var app = builder.Build();
+
+// Seed default user GTT
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    try
+    {
+        var userManager = services.GetRequiredService<UserManager<IdentityUser>>();
+        var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
+        await SeedDefaultUser(userManager, roleManager);
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"Error while seeding default user: {ex.Message}");
+    }
+}
+
+app.Run();
+
+static async Task SeedDefaultUser(UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager)
+{
+    const string defaultEmail = "admin@example.com";
+    const string defaultPassword = "Admin@123";
+
+    // Ensure the "Admin" role exists
+    if (!await roleManager.RoleExistsAsync("Admin"))
+    {
+        await roleManager.CreateAsync(new IdentityRole("Admin"));
+    }
+
+    // Check if the user already exists
+    var user = await userManager.FindByEmailAsync(defaultEmail);
+    if (user == null)
+    {
+        user = new IdentityUser
+        {
+            UserName = defaultEmail,
+            Email = defaultEmail,
+            EmailConfirmed = true
+        };
+
+        var result = await userManager.CreateAsync(user, defaultPassword);
+
+        if (result.Succeeded)
+        {
+            await userManager.AddToRoleAsync(user, "Admin");
+            Console.WriteLine("Default admin user created.");
+        }
+        else
+        {
+            Console.WriteLine("Failed to create default admin user.");
+        }
+    }
+}
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
