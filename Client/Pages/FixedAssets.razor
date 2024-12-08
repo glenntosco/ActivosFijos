@@ -21,7 +21,7 @@
     <RadzenRow>
       <RadzenColumn SizeMD=12>
         <RadzenDataGrid @ref="grid0" ColumnWidth="200px"   AllowFiltering="true" FilterMode="FilterMode.Advanced" AllowPaging="true" AllowSorting="true" ShowPagingSummary="true" PageSizeOptions=@(new int[]{5, 10, 20, 30})
-            Data="@fixedAssets" LoadData="@Grid0LoadData" Count="@count" TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" RowDoubleClick="@EditRow">
+            Data="@fixedAssets" LoadData="@Grid0LoadData" Count="@count" TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" RowDoubleClick="@EditRow" AllowGrouping="true" AllowColumnPicking="true" ColumnsPickerAllowFiltering="true" AllowColumnResize="true" AllowColumnReorder="true" AllowVirtualization="true" Responsive="false" AllowAlternatingRows="true" Density="Radzen.Density.Default" AllowCompositeDataCells="true" AllowFilterDateInput="false" GroupFootersAlwaysVisible="false" PagerAlwaysVisible="true" PageNumbersCount="50" PageSize="50" Style="height: 501px">
             <Columns>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetTag" Title="Asset Tag">
                 </RadzenDataGridColumn>
@@ -50,14 +50,6 @@
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="CreatedAt" Title="Created At">
                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="UpdatedAt" Title="Updated At">
-                </RadzenDataGridColumn>
-                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Filterable="false" Sortable="false" Width="70px" TextAlign="TextAlign.Center">
-                    <Template Context="fixedAsset">
-
-                        <RadzenButton ButtonStyle="ButtonStyle.Danger" Icon="delete" Size="ButtonSize.Medium"
-                            Shade="Shade.Lighter" Variant="Variant.Flat"
-                            Click=@(args => GridDeleteButtonClick(args, fixedAsset)) @onclick:stopPropagation="true" />
-                    </Template>
                 </RadzenDataGridColumn>
             </Columns>
 
