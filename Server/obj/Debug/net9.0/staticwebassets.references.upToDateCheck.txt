@@ -1,1 +1,3 @@
 S:\Projects\AF2024\Client\obj\Debug\net9.0\staticwebassets.build.json
+S:\Projects\ActivosFijos\Client\obj\Debug\net9.0\staticwebassets.build.json
+S:\Projects\ActivosFijos\Client\obj\Debug\net9.0\staticwebassets.build.json
