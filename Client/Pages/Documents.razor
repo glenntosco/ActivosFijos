@@ -1,6 +1,7 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<Documents> L
-@page "/documents"
-@attribute [Authorize]
+@page "/documents"
+
+@attribute [Authorize(Roles="Administrator")]
 
 <PageTitle>Documents</PageTitle>
 <RadzenStack>

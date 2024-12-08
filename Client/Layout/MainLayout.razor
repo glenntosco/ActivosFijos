@@ -23,7 +23,6 @@
                         </ChildContent>
                         <Template>
                             @Security.User?.Name
-                            <RadzenGravatar Email="@Security.User?.Name" />
                         </Template>
                     </RadzenProfileMenu>
                 </RadzenStack>
@@ -42,7 +41,7 @@
             <RadzenImage Path="images/logo.png"  style="width: 48px; height: 48px;" AlternateText="Application logo"></RadzenImage>
             <RadzenText Text="Activos Filjos" TextStyle="Radzen.Blazor.TextStyle.Subtitle1" class="rz-mb-0" style="color: var(--rz-sidebar-color);" />
         </RadzenStack>
-        <RadzenPanelMenu>
+        <RadzenPanelMenu DisplayStyle="Radzen.MenuItemDisplayStyle.IconAndText">
             <RadzenPanelMenuItem Text="Fixed Assets" Path="fixed-assets" />
             <RadzenPanelMenuItem Text="Maintenance Records" Path="maintenance-records" />
             <RadzenPanelMenuItem Text="Asset Assignments" Path="asset-assignments" />

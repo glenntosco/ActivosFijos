@@ -653,7 +653,6 @@ S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\skw2n76jpc-m6wfvkp0t
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\cjx86zkza6-rfgkjh06pr.gz
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\25glmo8l3y-z4od4ipeg7.gz
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\puxo3278pk-yei6q65i6b.gz
-S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-o0ietyz85i.gz
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\staticwebassets.build.json
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\staticwebassets.development.json
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -669,3 +668,4 @@ S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\refint\ActivosFiljos.Server.dll
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\ActivosFiljos.Server.pdb
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\ActivosFiljos.Server.genruntimeconfig.cache
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\ref\ActivosFiljos.Server.dll
+S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-t0mhb92lut.gz
