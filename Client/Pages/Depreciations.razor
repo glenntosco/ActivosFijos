@@ -1,6 +1,7 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<Depreciations> L
-@page "/depreciations"
-@attribute [Authorize]
+@page "/depreciations"
+
+@attribute [Authorize(Roles="Administrator")]
 
 <PageTitle>Depreciations</PageTitle>
 <RadzenStack>
