@@ -1,5 +1,6 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<AddMaintenanceRecord> L
-@page "/add-maintenance-record"
+@page "/add-maintenance-record"
+@attribute [Authorize]
 
 <PageTitle>Add MaintenanceRecord</PageTitle>
     <RadzenColumn SizeMD=12>

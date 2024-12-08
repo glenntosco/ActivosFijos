@@ -28,8 +28,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q3VsdHVyZVBpY2tlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[S:/Projects/ActivosFijos/Client/Layout/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XExvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [S:/Projects/ActivosFijos/Client/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Projects/ActivosFijos/Client/Pages/AddApplicationRole.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQXBwbGljYXRpb25Sb2xlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Projects/ActivosFijos/Client/Pages/AddApplicationUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQXBwbGljYXRpb25Vc2VyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [S:/Projects/ActivosFijos/Client/Pages/AddAssetAssignment.razor]
@@ -100,6 +112,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkVXNlclJvbGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[S:/Projects/ActivosFijos/Client/Pages/ApplicationRoles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwbGljYXRpb25Sb2xlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Projects/ActivosFijos/Client/Pages/ApplicationUsers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwbGljYXRpb25Vc2Vycy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [S:/Projects/ActivosFijos/Client/Pages/AssetAssignments.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzZXRBc3NpZ25tZW50cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -130,6 +150,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [S:/Projects/ActivosFijos/Client/Pages/Documents.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdW1lbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Projects/ActivosFijos/Client/Pages/EditApplicationUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFwcGxpY2F0aW9uVXNlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [S:/Projects/ActivosFijos/Client/Pages/EditAssetAssignment.razor]
@@ -212,12 +236,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYXRpb25zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[S:/Projects/ActivosFijos/Client/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [S:/Projects/ActivosFijos/Client/Pages/MaintenanceRecords.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpbnRlbmFuY2VSZWNvcmRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [S:/Projects/ActivosFijos/Client/Pages/Notifications.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90aWZpY2F0aW9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Projects/ActivosFijos/Client/Pages/Profile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [S:/Projects/ActivosFijos/Client/Pages/Roles.razor]
@@ -228,8 +260,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NoZWR1bGVkTWFpbnRlbmFuY2VzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[S:/Projects/ActivosFijos/Client/Pages/SecurityCode.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjdXJpdHlDb2RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [S:/Projects/ActivosFijos/Client/Pages/Statuses.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdHVzZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Projects/ActivosFijos/Client/Pages/Unauthorized.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5hdXRob3JpemVkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [S:/Projects/ActivosFijos/Client/Pages/UserRoles.razor]
@@ -238,6 +278,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [S:/Projects/ActivosFijos/Client/Pages/Users.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Projects/ActivosFijos/Client/Pages/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Projects/ActivosFijos/Client/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = UmVkaXJlY3RUb0xvZ2luLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [S:/Projects/ActivosFijos/Client/Routes.razor]

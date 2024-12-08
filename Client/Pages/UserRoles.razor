@@ -1,5 +1,6 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<UserRoles> L
-@page "/user-roles"
+@page "/user-roles"
+@attribute [Authorize]
 
 <PageTitle>UserRoles</PageTitle>
 <RadzenStack>

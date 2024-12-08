@@ -1,5 +1,6 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<AddLocation> L
-@page "/add-location"
+@page "/add-location"
+@attribute [Authorize]
 
 <PageTitle>Add Location</PageTitle>
     <RadzenColumn SizeMD=12>

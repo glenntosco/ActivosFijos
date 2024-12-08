@@ -1,5 +1,6 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<AddDisposalRecord> L
-@page "/add-disposal-record"
+@page "/add-disposal-record"
+@attribute [Authorize]
 
 <PageTitle>Add DisposalRecord</PageTitle>
     <RadzenColumn SizeMD=12>

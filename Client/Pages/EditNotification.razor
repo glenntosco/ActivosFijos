@@ -1,5 +1,6 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<EditNotification> L
-@page "/edit-notification"
+@page "/edit-notification"
+@attribute [Authorize]
 
 <PageTitle>Edit Notification</PageTitle>
 <RadzenRow>

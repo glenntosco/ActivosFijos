@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ActivosFiljos.Client",
   "resources": {
-    "hash": "sha256-WKFsWHqweYGeTidrE6CbE0t1kVbIBdxWwHw24vQH67Y=",
+    "hash": "sha256-yk0a4MKLtrF/QJiLaCyqM/dY8qUYv0K3D1d0JFNooAk=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -10,7 +10,15 @@
       "Microsoft.AspNetCore.Components.Web.cx40wf47rk.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.5cygu8f0zf.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.Authentication.7obbezq5bm.wasm": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm",
+      "Microsoft.AspNetCore.Cryptography.Internal.ehuidekqxg.wasm": "Microsoft.AspNetCore.Cryptography.Internal.wasm",
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation.098zy0lu20.wasm": "Microsoft.AspNetCore.Cryptography.KeyDerivation.wasm",
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore.zt9kwfafir.wasm": "Microsoft.AspNetCore.Identity.EntityFrameworkCore.wasm",
       "Microsoft.AspNetCore.Metadata.8r1tzxyzhv.wasm": "Microsoft.AspNetCore.Metadata.wasm",
+      "Microsoft.EntityFrameworkCore.7t7maosifm.wasm": "Microsoft.EntityFrameworkCore.wasm",
+      "Microsoft.EntityFrameworkCore.Abstractions.l68t6vbs1c.wasm": "Microsoft.EntityFrameworkCore.Abstractions.wasm",
+      "Microsoft.EntityFrameworkCore.Relational.ajs850b5pl.wasm": "Microsoft.EntityFrameworkCore.Relational.wasm",
+      "Microsoft.Extensions.Caching.Abstractions.ydkkafbouo.wasm": "Microsoft.Extensions.Caching.Abstractions.wasm",
+      "Microsoft.Extensions.Caching.Memory.exxngzf35n.wasm": "Microsoft.Extensions.Caching.Memory.wasm",
       "Microsoft.Extensions.Configuration.ic45gpxjv4.wasm": "Microsoft.Extensions.Configuration.wasm",
       "Microsoft.Extensions.Configuration.Abstractions.pvxa4wu5tg.wasm": "Microsoft.Extensions.Configuration.Abstractions.wasm",
       "Microsoft.Extensions.Configuration.Binder.7aji9488co.wasm": "Microsoft.Extensions.Configuration.Binder.wasm",
@@ -24,6 +32,8 @@
       "Microsoft.Extensions.FileProviders.Physical.qnaw45f7ij.wasm": "Microsoft.Extensions.FileProviders.Physical.wasm",
       "Microsoft.Extensions.FileSystemGlobbing.q5if44af42.wasm": "Microsoft.Extensions.FileSystemGlobbing.wasm",
       "Microsoft.Extensions.Http.19whzah939.wasm": "Microsoft.Extensions.Http.wasm",
+      "Microsoft.Extensions.Identity.Core.mv32awykb0.wasm": "Microsoft.Extensions.Identity.Core.wasm",
+      "Microsoft.Extensions.Identity.Stores.yp1mw42u3y.wasm": "Microsoft.Extensions.Identity.Stores.wasm",
       "Microsoft.Extensions.Localization.2y8sbx0rdg.wasm": "Microsoft.Extensions.Localization.wasm",
       "Microsoft.Extensions.Localization.Abstractions.qa0jmre5w9.wasm": "Microsoft.Extensions.Localization.Abstractions.wasm",
       "Microsoft.Extensions.Logging.f89dlchogn.wasm": "Microsoft.Extensions.Logging.wasm",
@@ -209,10 +219,10 @@
       "dotnet.native.p4lwlf2bu1.wasm": "dotnet.native.wasm",
       "dotnet.runtime.o8gq1i8bk6.js": "dotnet.runtime.js",
       "icudt.oh1zvcfom8.dat": "icudt.dat",
-      "ActivosFiljos.Client.8ozpzxdtac.wasm": "ActivosFiljos.Client.wasm",
-      "ActivosFiljos.Client.4ixzlhersz.pdb": "ActivosFiljos.Client.pdb",
-      "ActivosFiljos.Client.resources.ky3ag9rfxp.wasm": "ActivosFiljos.Client.resources.wasm",
-      "ActivosFiljos.Client.resources.pty4sdddkz.wasm": "ActivosFiljos.Client.resources.wasm"
+      "ActivosFiljos.Client.ni6mxldtxl.wasm": "ActivosFiljos.Client.wasm",
+      "ActivosFiljos.Client.53uuffr2iu.pdb": "ActivosFiljos.Client.pdb",
+      "ActivosFiljos.Client.resources.ztlxnqf6kh.wasm": "ActivosFiljos.Client.resources.wasm",
+      "ActivosFiljos.Client.resources.tt0rxnt30r.wasm": "ActivosFiljos.Client.resources.wasm"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -238,7 +248,15 @@
       "Microsoft.AspNetCore.Components.Web.cx40wf47rk.wasm": "sha256-ECvB9e5XSMH23qRbFlUaMQ7yi5lypoSEKbSDFgPrgfw=",
       "Microsoft.AspNetCore.Components.WebAssembly.5cygu8f0zf.wasm": "sha256-KwD9Lhu5DlaqdB2ceYX2LavpwSIAS5H07ZPT2jVbiu4=",
       "Microsoft.AspNetCore.Components.WebAssembly.Authentication.7obbezq5bm.wasm": "sha256-1ym186fdfU9SJmY6M9n4+06vkD5lYpaKuZ2djhLnYy8=",
+      "Microsoft.AspNetCore.Cryptography.Internal.ehuidekqxg.wasm": "sha256-LrCvl6SjL17nVLG4fXls0CEtTGYDDZpZepuEuF+MKPQ=",
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation.098zy0lu20.wasm": "sha256-fLmFV447kJPM4R3fiAJcb4wmvwJAn3gb/HYSec1nbk8=",
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore.zt9kwfafir.wasm": "sha256-x4qMupQjtCkPBODtDU41jP0vMIVdw0wclwKExI/vwrU=",
       "Microsoft.AspNetCore.Metadata.8r1tzxyzhv.wasm": "sha256-3EoL3qJCooyvJ92CEaRsAzHRf1isqMHQN+kOaKV9bKA=",
+      "Microsoft.EntityFrameworkCore.7t7maosifm.wasm": "sha256-C7uMIIpugqx99iNywMepsRY/Q0rv7aD8ruKXqgx+1Ng=",
+      "Microsoft.EntityFrameworkCore.Abstractions.l68t6vbs1c.wasm": "sha256-rSAeMm0pOMtQzfvBLoxEhvWxA7kNZL/jbx8DIMqcDd0=",
+      "Microsoft.EntityFrameworkCore.Relational.ajs850b5pl.wasm": "sha256-dlew9QJAFsp4AjWUhEy7g8kLSZ0bilvqr/+CojJC4mQ=",
+      "Microsoft.Extensions.Caching.Abstractions.ydkkafbouo.wasm": "sha256-ysWnv5E3tv2KFafYMVtdZFxPm8f2c3RHr6RyQCgpckw=",
+      "Microsoft.Extensions.Caching.Memory.exxngzf35n.wasm": "sha256-gjddjJUCYrpq06uW6nUKI+I7LVGXj02ptYStPt8G8CU=",
       "Microsoft.Extensions.Configuration.ic45gpxjv4.wasm": "sha256-vnaZO3xnaFa9759X1ZOnVpCWKAwE9Xs9dd2r08xExUc=",
       "Microsoft.Extensions.Configuration.Abstractions.pvxa4wu5tg.wasm": "sha256-Be4qQkqKq9ZefQTu5oOnkHxOzbKy0D4XKHTLiRLKG5E=",
       "Microsoft.Extensions.Configuration.Binder.7aji9488co.wasm": "sha256-4RQ7sYEkVFXEnO+v2ac+6ZYVKmCX/GMj2TMs42QvkbA=",
@@ -252,6 +270,8 @@
       "Microsoft.Extensions.FileProviders.Physical.qnaw45f7ij.wasm": "sha256-CppJFrBtxPacr6ynl4+uMj6BHjjS6mGJH5dxN9PVxeY=",
       "Microsoft.Extensions.FileSystemGlobbing.q5if44af42.wasm": "sha256-rn1kOaNzJs0PQXRilQjYtvfwBN43zrliuDrnW/NL7n8=",
       "Microsoft.Extensions.Http.19whzah939.wasm": "sha256-hXiPpWPveO5qsdEW2Gv44+2FTo1+h44csvRy7ob7mSM=",
+      "Microsoft.Extensions.Identity.Core.mv32awykb0.wasm": "sha256-Imq++/UoOoBK6wM2drJYtgP4W68WWkguV/HRHKnSZwE=",
+      "Microsoft.Extensions.Identity.Stores.yp1mw42u3y.wasm": "sha256-NgIDELOIDZ5STswnwR0IJTZKzIe20cBDzg5j+cMmfh0=",
       "Microsoft.Extensions.Localization.2y8sbx0rdg.wasm": "sha256-Sut6zwJxe8UqofuAS1eDF9eZFoR5mjFDInY5N91R+Z4=",
       "Microsoft.Extensions.Localization.Abstractions.qa0jmre5w9.wasm": "sha256-QspO6bFQ5Ic2xt6edWTY6oi7g8YBM3z6llz11/J6H1o=",
       "Microsoft.Extensions.Logging.f89dlchogn.wasm": "sha256-AZt6PcIp4YH/6IfDlKv99LJi7Wni+IQW67Ie8zPGHYA=",
@@ -430,17 +450,17 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "ActivosFiljos.Client.8ozpzxdtac.wasm": "sha256-KEhS7hWzJZaY0zeHeYJVgZPt4XyYaSX1dO6eeUkhr24="
+      "ActivosFiljos.Client.ni6mxldtxl.wasm": "sha256-gfC8y+MR1rX6Qa5PNuH2iWjmkGLx/rGDYVmm91J/jrg="
     },
     "pdb": {
-      "ActivosFiljos.Client.4ixzlhersz.pdb": "sha256-pLJLqJiuUiHnRpLsuSFMx1Ddb+HPnrCogGgVJumzjxY="
+      "ActivosFiljos.Client.53uuffr2iu.pdb": "sha256-0S4jTDnS4hoXcCULqhh86xnsxcZVIJwLiSnOcwMjxCM="
     },
     "satelliteResources": {
       "en": {
-        "ActivosFiljos.Client.resources.ky3ag9rfxp.wasm": "sha256-dIldSbUpBhyPr08foHnQa5aAQAf+DpXtDox7UpsVHQI="
+        "ActivosFiljos.Client.resources.ztlxnqf6kh.wasm": "sha256-OYRGvE8a3rCocIn8GDUeasbntXezv2JrRX2qu4Ro8HM="
       },
       "es-PA": {
-        "ActivosFiljos.Client.resources.pty4sdddkz.wasm": "sha256-s3bHoRsWcrb5F7DGc/XtjQ+J+W2J/MHLf0ytZlaFvXA="
+        "ActivosFiljos.Client.resources.tt0rxnt30r.wasm": "sha256-8UlRfOYcA5RwEcJ8nap8Q6IOwglp2kUHsCdWIrWfmQg="
       }
     }
   },

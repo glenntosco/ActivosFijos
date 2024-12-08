@@ -1,5 +1,6 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<AddNotification> L
-@page "/add-notification"
+@page "/add-notification"
+@attribute [Authorize]
 
 <PageTitle>Add Notification</PageTitle>
     <RadzenColumn SizeMD=12>

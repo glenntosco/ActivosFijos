@@ -1,5 +1,6 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<AddDocument> L
-@page "/add-document"
+@page "/add-document"
+@attribute [Authorize]
 
 <PageTitle>Add Document</PageTitle>
     <RadzenColumn SizeMD=12>

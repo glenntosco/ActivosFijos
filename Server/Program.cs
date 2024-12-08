@@ -3,6 +3,10 @@ using ActivosFiljos.Server.Components;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OData.ModelBuilder;
 using Microsoft.AspNetCore.OData;
+using ActivosFiljos.Server.Data;
+using Microsoft.AspNetCore.Identity;
+using ActivosFiljos.Server.Models;
+using Microsoft.AspNetCore.Components.Authorization;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
@@ -44,6 +48,27 @@ builder.Services.AddControllers().AddOData(opt =>
 });
 builder.Services.AddScoped<ActivosFiljos.Client.FixedAssetsDBService>();
 builder.Services.AddLocalization();
+builder.Services.AddHttpClient("ActivosFiljos.Server").ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler { UseCookies = false }).AddHeaderPropagation(o => o.Headers.Add("Cookie"));
+builder.Services.AddHeaderPropagation(o => o.Headers.Add("Cookie"));
+builder.Services.AddAuthentication();
+builder.Services.AddAuthorization();
+builder.Services.AddScoped<ActivosFiljos.Client.SecurityService>();
+builder.Services.AddDbContext<ApplicationIdentityDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("FixedAssetsDBConnection"));
+});
+builder.Services.AddIdentity<ApplicationUser, ApplicationRole>().AddEntityFrameworkStores<ApplicationIdentityDbContext>().AddDefaultTokenProviders();
+builder.Services.AddControllers().AddOData(o =>
+{
+    var oDataBuilder = new ODataConventionModelBuilder();
+    oDataBuilder.EntitySet<ApplicationUser>("ApplicationUsers");
+    var usersType = oDataBuilder.StructuralTypes.First(x => x.ClrType == typeof(ApplicationUser));
+    usersType.AddProperty(typeof(ApplicationUser).GetProperty(nameof(ApplicationUser.Password)));
+    usersType.AddProperty(typeof(ApplicationUser).GetProperty(nameof(ApplicationUser.ConfirmPassword)));
+    oDataBuilder.EntitySet<ApplicationRole>("ApplicationRoles");
+    o.AddRouteComponents("odata/Identity", oDataBuilder.GetEdmModel()).Count().Filter().OrderBy().Expand().Select().SetMaxTop(null).TimeZone = TimeZoneInfo.Utc;
+});
+builder.Services.AddScoped<AuthenticationStateProvider, ActivosFiljos.Client.ApplicationAuthenticationStateProvider>();
 var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -60,7 +85,11 @@ else
 app.UseHttpsRedirection();
 app.MapControllers();
 app.UseRequestLocalization(options => options.AddSupportedCultures("en", "es-PA").AddSupportedUICultures("en", "es-PA").SetDefaultCulture("en"));
+app.UseHeaderPropagation();
 app.UseStaticFiles();
+app.UseAuthentication();
+app.UseAuthorization();
 app.UseAntiforgery();
 app.MapRazorComponents<App>().AddInteractiveServerRenderMode().AddInteractiveWebAssemblyRenderMode().AddAdditionalAssemblies(typeof(ActivosFiljos.Client._Imports).Assembly);
+app.Services.CreateScope().ServiceProvider.GetRequiredService<ApplicationIdentityDbContext>().Database.Migrate();
 app.Run();

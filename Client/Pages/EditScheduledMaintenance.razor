@@ -1,5 +1,6 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<EditScheduledMaintenance> L
-@page "/edit-scheduled-maintenance"
+@page "/edit-scheduled-maintenance"
+@attribute [Authorize]
 
 <PageTitle>Edit ScheduledMaintenance</PageTitle>
 <RadzenRow>

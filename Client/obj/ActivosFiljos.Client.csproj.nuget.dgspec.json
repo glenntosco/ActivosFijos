@@ -60,6 +60,10 @@
               "target": "Package",
               "version": "[9.*-*, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.*-*, )"
+            },
             "Microsoft.Extensions.Http": {
               "target": "Package",
               "version": "[9.*-*, )"

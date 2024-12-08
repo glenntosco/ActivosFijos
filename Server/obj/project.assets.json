@@ -241,6 +241,72 @@
           "build/Microsoft.AspNetCore.Components.WebAssembly.Server.targets": {}
         }
       },
+      "Microsoft.AspNetCore.Cryptography.Internal/9.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/9.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "9.0.0"
+        },
+        "compile": {
+          "lib/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.HeaderPropagation/9.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "9.0.0",
+          "Microsoft.Extensions.Http": "9.0.0"
+        },
+        "compile": {
+          "lib/net9.0/Microsoft.AspNetCore.HeaderPropagation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.HeaderPropagation.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/9.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.0",
+          "Microsoft.Extensions.Identity.Stores": "9.0.0"
+        },
+        "compile": {
+          "lib/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Metadata/9.0.0": {
         "type": "package",
         "compile": {
@@ -1116,6 +1182,42 @@
         },
         "build": {
           "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Identity.Core/9.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "9.0.0",
+          "Microsoft.Extensions.Logging": "9.0.0",
+          "Microsoft.Extensions.Options": "9.0.0"
+        },
+        "compile": {
+          "lib/net9.0/Microsoft.Extensions.Identity.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Identity.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Identity.Stores/9.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "9.0.0",
+          "Microsoft.Extensions.Identity.Core": "9.0.0",
+          "Microsoft.Extensions.Logging": "9.0.0"
+        },
+        "compile": {
+          "lib/net9.0/Microsoft.Extensions.Identity.Stores.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Identity.Stores.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Localization/9.0.0": {
@@ -2265,6 +2367,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly": "9.0.0-0",
           "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "9.0.0-0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.0-0",
           "Microsoft.Extensions.Http": "9.0.0-0",
           "Microsoft.Extensions.Localization": "9.0.0-0",
           "Radzen.Blazor": "0.0.0",
@@ -2558,6 +2661,74 @@
         "tools/BlazorDebugProxy/Microsoft.NET.WebAssembly.Webcil.dll",
         "tools/BlazorDebugProxy/Microsoft.SymbolStore.dll",
         "tools/BlazorDebugProxy/Newtonsoft.Json.dll"
+      ]
+    },
+    "Microsoft.AspNetCore.Cryptography.Internal/9.0.0": {
+      "sha512": "M1dzTEl+2+RqT4vWcqEpWasPXHd58wC93U7QMlmPSmx+qixyVxCQjZ183wr7Wa68b4pF7wC501MU9rdA0ZNhMg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.cryptography.internal/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net462/Microsoft.AspNetCore.Cryptography.Internal.dll",
+        "lib/net462/Microsoft.AspNetCore.Cryptography.Internal.xml",
+        "lib/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll",
+        "lib/net9.0/Microsoft.AspNetCore.Cryptography.Internal.xml",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.xml",
+        "microsoft.aspnetcore.cryptography.internal.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.cryptography.internal.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/9.0.0": {
+      "sha512": "9X4cx2IHNpYb9ka984BjDpJnKkindW17Z2kR/RI5pbTcbVUVMJjiAKnBhAqH24KtAEf1AU64LD60byzCn0/n8w==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net462/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/net462/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
+        "lib/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
+        "microsoft.aspnetcore.cryptography.keyderivation.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.cryptography.keyderivation.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.HeaderPropagation/9.0.0": {
+      "sha512": "XVchqus5S+bxwSJUO9RV7FDn9XwGzYQAXguNQbRTFJ9MpefTElbKns/dwsp5Qw85Ixhj8OlJqfQKjFY8SZcLow==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.headerpropagation/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net9.0/Microsoft.AspNetCore.HeaderPropagation.dll",
+        "lib/net9.0/Microsoft.AspNetCore.HeaderPropagation.xml",
+        "microsoft.aspnetcore.headerpropagation.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.headerpropagation.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/9.0.0": {
+      "sha512": "fwQkBQGaiRKDQWBc7PXxDiDXtsUsRPL88Jp0CqjqoDhd9p5uHSyuv6g3ALq2EbCvKcWk/7pOKsJiDomPvp/ptA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.identity.entityframeworkcore/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll",
+        "lib/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml",
+        "microsoft.aspnetcore.identity.entityframeworkcore.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.identity.entityframeworkcore.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Metadata/9.0.0": {
@@ -4273,6 +4444,44 @@
         "microsoft.extensions.http.9.0.0.nupkg.sha512",
         "microsoft.extensions.http.nuspec",
         "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Identity.Core/9.0.0": {
+      "sha512": "+cQjUs8PIheIMALzrf/e4gW6A/yOK8XYBxeEmAfLvVIaV9lsBGvVT0zjEZ1KPQDJ9nUeQ9uAw077J7LPUwv8wA==",
+      "type": "package",
+      "path": "microsoft.extensions.identity.core/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net462/Microsoft.Extensions.Identity.Core.dll",
+        "lib/net462/Microsoft.Extensions.Identity.Core.xml",
+        "lib/net9.0/Microsoft.Extensions.Identity.Core.dll",
+        "lib/net9.0/Microsoft.Extensions.Identity.Core.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Identity.Core.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Identity.Core.xml",
+        "microsoft.extensions.identity.core.9.0.0.nupkg.sha512",
+        "microsoft.extensions.identity.core.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Identity.Stores/9.0.0": {
+      "sha512": "XG3opf0KgWoYAUdLRhrIvI46W+/E45Ov8rzgwr0omrq5u06MCrsuMm0nPmd+pIWjMXRxbBk1uL47zGyW1lI5Hw==",
+      "type": "package",
+      "path": "microsoft.extensions.identity.stores/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net462/Microsoft.Extensions.Identity.Stores.dll",
+        "lib/net462/Microsoft.Extensions.Identity.Stores.xml",
+        "lib/net9.0/Microsoft.Extensions.Identity.Stores.dll",
+        "lib/net9.0/Microsoft.Extensions.Identity.Stores.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Identity.Stores.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Identity.Stores.xml",
+        "microsoft.extensions.identity.stores.9.0.0.nupkg.sha512",
+        "microsoft.extensions.identity.stores.nuspec"
       ]
     },
     "Microsoft.Extensions.Localization/9.0.0": {
@@ -6348,6 +6557,8 @@
       "ActivosFiljos.Client >= 1.0.0",
       "DocumentFormat.OpenXml >= 2.20.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 9.*-*",
+      "Microsoft.AspNetCore.HeaderPropagation >= 9.*-*",
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 9.*-*",
       "Microsoft.AspNetCore.OData >= 9.*-*",
       "Microsoft.EntityFrameworkCore >= 9.*-*",
       "Microsoft.EntityFrameworkCore.Design >= 9.*-*",
@@ -6417,6 +6628,14 @@
             "version": "[2.20.0, )"
           },
           "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+            "target": "Package",
+            "version": "[9.*-*, )"
+          },
+          "Microsoft.AspNetCore.HeaderPropagation": {
+            "target": "Package",
+            "version": "[9.*-*, )"
+          },
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[9.*-*, )"
           },

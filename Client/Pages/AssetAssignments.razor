@@ -1,5 +1,6 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<AssetAssignments> L
-@page "/asset-assignments"
+@page "/asset-assignments"
+@attribute [Authorize]
 
 <PageTitle>AssetAssignments</PageTitle>
 <RadzenStack>
