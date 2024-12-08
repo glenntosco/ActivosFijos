@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "S:\\Projects\\ActivosFijos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B03F353-1442-4BA5-AA79-445D34A47D2D}|Client\\ActivosFiljos.Client.csproj|s:\\projects\\activosfijos\\client\\pages\\fixedassets.razor||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{4B03F353-1442-4BA5-AA79-445D34A47D2D}|Client\\ActivosFiljos.Client.csproj|solutionrelative:client\\pages\\fixedassets.razor||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -26,6 +27,17 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FixedAssets.razor",
+              "DocumentMoniker": "S:\\Projects\\ActivosFijos\\Client\\Pages\\FixedAssets.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\FixedAssets.razor",
+              "ToolTip": "S:\\Projects\\ActivosFijos\\Client\\Pages\\FixedAssets.razor",
+              "RelativeToolTip": "Client\\Pages\\FixedAssets.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T14:25:19.209Z"
             }
           ]
         }
