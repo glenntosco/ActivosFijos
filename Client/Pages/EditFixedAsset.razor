@@ -133,7 +133,7 @@
                     <RadzenLabel Text="Created At" Component="CreatedAt" style="width: 100%" />
                 </RadzenColumn>
                 <RadzenColumn SizeMD="9">
-                    <RadzenDatePicker DateFormat="MM/dd/yyyy" style="display: block; width: 100%" @bind-Value="@fixedAsset.CreatedAt" Name="CreatedAt" />
+                    <RadzenDatePicker DateFormat="MM/dd/yyyy" style="display: block; width: 100%" @bind-Value="@fixedAsset.CreatedAt" Name="CreatedAt" AllowInput="false" ShowTimeOkButton="false" ReadOnly="true" />
                 </RadzenColumn>
             </RadzenRow>
             <RadzenRow style="margin-bottom: 1rem">
@@ -141,7 +141,7 @@
                     <RadzenLabel Text="Updated At" Component="UpdatedAt" style="width: 100%" />
                 </RadzenColumn>
                 <RadzenColumn SizeMD="9">
-                    <RadzenDatePicker DateFormat="MM/dd/yyyy" style="display: block; width: 100%" @bind-Value="@fixedAsset.UpdatedAt" Name="UpdatedAt" />
+                    <RadzenDatePicker DateFormat="MM/dd/yyyy" style="display: block; width: 100%" @bind-Value="@fixedAsset.UpdatedAt" Name="UpdatedAt" ReadOnly="true" ShowDays="false" ShowButton="false" AllowInput="false" />
                 </RadzenColumn>
             </RadzenRow>
           <RadzenStack  Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.End" Gap="0.5rem">

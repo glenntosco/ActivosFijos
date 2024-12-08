@@ -61,7 +61,7 @@
                     <RadzenLabel Text="Uploaded At" Component="UploadedAt" style="width: 100%" />
                 </RadzenColumn>
                 <RadzenColumn SizeMD="9">
-                    <RadzenDatePicker DateFormat="MM/dd/yyyy" style="display: block; width: 100%" @bind-Value="@document.UploadedAt" Name="UploadedAt" />
+                    <RadzenDatePicker DateFormat="MM/dd/yyyy" style="display: block; width: 100%" @bind-Value="@document.UploadedAt" Name="UploadedAt" ReadOnly="true" ShowDays="false" ShowTimeOkButton="false" ShowButton="false" AllowInput="false" />
                 </RadzenColumn>
             </RadzenRow>
             <RadzenRow style="margin-bottom: 1rem">
