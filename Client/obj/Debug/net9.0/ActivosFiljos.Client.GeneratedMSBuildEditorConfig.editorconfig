@@ -13,237 +13,237 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = ActivosFiljos.Client
 build_property.RootNamespace = ActivosFiljos.Client
-build_property.ProjectDir = C:\Projects\AF2024\ActivosFijos\Client\
+build_property.ProjectDir = S:\Projects\ActivosFijos\Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Projects\AF2024\ActivosFijos\Client
+build_property.MSBuildProjectDirectory = S:\Projects\ActivosFijos\Client
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/CulturePicker.razor]
+[S:/Projects/ActivosFijos/Client/CulturePicker.razor]
 build_metadata.AdditionalFiles.TargetPath = Q3VsdHVyZVBpY2tlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Layout/MainLayout.razor]
+[S:/Projects/ActivosFijos/Client/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddAssetAssignment.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddAssetAssignment.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQXNzZXRBc3NpZ25tZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddAssetAttribute.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddAssetAttribute.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQXNzZXRBdHRyaWJ1dGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddAssetAttributeValue.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddAssetAttributeValue.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQXNzZXRBdHRyaWJ1dGVWYWx1ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddAssetCategory.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddAssetCategory.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQXNzZXRDYXRlZ29yeS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddAssetInsurance.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddAssetInsurance.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQXNzZXRJbnN1cmFuY2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddDepreciation.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddDepreciation.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRGVwcmVjaWF0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddDisposalRecord.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddDisposalRecord.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRGlzcG9zYWxSZWNvcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddDocument.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddDocument.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRG9jdW1lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddFixedAsset.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddFixedAsset.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRml4ZWRBc3NldC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddLocation.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddLocation.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTG9jYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddMaintenanceRecord.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddMaintenanceRecord.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTWFpbnRlbmFuY2VSZWNvcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddNotification.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddNotification.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTm90aWZpY2F0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddRole.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddRole.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUm9sZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddScheduledMaintenance.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddScheduledMaintenance.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU2NoZWR1bGVkTWFpbnRlbmFuY2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddStatus.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddStatus.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU3RhdHVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddUser.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddUser.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkVXNlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AddUserRole.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AddUserRole.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkVXNlclJvbGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AssetAssignments.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AssetAssignments.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzZXRBc3NpZ25tZW50cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AssetAttributes.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AssetAttributes.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzZXRBdHRyaWJ1dGVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AssetAttributeValues.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AssetAttributeValues.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzZXRBdHRyaWJ1dGVWYWx1ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AssetCategories.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AssetCategories.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzZXRDYXRlZ29yaWVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/AssetInsurances.razor]
+[S:/Projects/ActivosFijos/Client/Pages/AssetInsurances.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzZXRJbnN1cmFuY2VzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/Depreciations.razor]
+[S:/Projects/ActivosFijos/Client/Pages/Depreciations.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwcmVjaWF0aW9ucy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/DisposalRecords.razor]
+[S:/Projects/ActivosFijos/Client/Pages/DisposalRecords.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcG9zYWxSZWNvcmRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/Documents.razor]
+[S:/Projects/ActivosFijos/Client/Pages/Documents.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdW1lbnRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditAssetAssignment.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditAssetAssignment.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFzc2V0QXNzaWdubWVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditAssetAttribute.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditAssetAttribute.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFzc2V0QXR0cmlidXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditAssetAttributeValue.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditAssetAttributeValue.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFzc2V0QXR0cmlidXRlVmFsdWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditAssetCategory.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditAssetCategory.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFzc2V0Q2F0ZWdvcnkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditAssetInsurance.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditAssetInsurance.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFzc2V0SW5zdXJhbmNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditDepreciation.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditDepreciation.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdERlcHJlY2lhdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditDisposalRecord.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditDisposalRecord.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdERpc3Bvc2FsUmVjb3JkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditDocument.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditDocument.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdERvY3VtZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditFixedAsset.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditFixedAsset.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEZpeGVkQXNzZXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditLocation.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditLocation.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdExvY2F0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditMaintenanceRecord.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditMaintenanceRecord.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE1haW50ZW5hbmNlUmVjb3JkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditNotification.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditNotification.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE5vdGlmaWNhdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditRole.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditRole.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFJvbGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditScheduledMaintenance.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditScheduledMaintenance.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFNjaGVkdWxlZE1haW50ZW5hbmNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditStatus.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditStatus.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFN0YXR1cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditUser.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditUser.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFVzZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/EditUserRole.razor]
+[S:/Projects/ActivosFijos/Client/Pages/EditUserRole.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFVzZXJSb2xlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/FixedAssets.razor]
+[S:/Projects/ActivosFijos/Client/Pages/FixedAssets.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRml4ZWRBc3NldHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/Index.razor]
+[S:/Projects/ActivosFijos/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/Locations.razor]
+[S:/Projects/ActivosFijos/Client/Pages/Locations.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYXRpb25zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/MaintenanceRecords.razor]
+[S:/Projects/ActivosFijos/Client/Pages/MaintenanceRecords.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpbnRlbmFuY2VSZWNvcmRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/Notifications.razor]
+[S:/Projects/ActivosFijos/Client/Pages/Notifications.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90aWZpY2F0aW9ucy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/Roles.razor]
+[S:/Projects/ActivosFijos/Client/Pages/Roles.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/ScheduledMaintenances.razor]
+[S:/Projects/ActivosFijos/Client/Pages/ScheduledMaintenances.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NoZWR1bGVkTWFpbnRlbmFuY2VzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/Statuses.razor]
+[S:/Projects/ActivosFijos/Client/Pages/Statuses.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdHVzZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/UserRoles.razor]
+[S:/Projects/ActivosFijos/Client/Pages/UserRoles.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclJvbGVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Pages/Users.razor]
+[S:/Projects/ActivosFijos/Client/Pages/Users.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/Routes.razor]
+[S:/Projects/ActivosFijos/Client/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Um91dGVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/AF2024/ActivosFijos/Client/_Imports.razor]
+[S:/Projects/ActivosFijos/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

@@ -660,8 +660,10 @@ C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\ActivosFiljos.Server.pdb
 C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\ActivosFiljos.Server.genruntimeconfig.cache
 C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\ref\ActivosFiljos.Server.dll
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\skw2n76jpc-m6wfvkp0tf.gz
-S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-d8judxxrer.gz
 C:\Projects\AF2024\ActivosFijos\Server\bin\Debug\net9.0\en\ActivosFiljos.Client.resources.dll
 C:\Projects\AF2024\ActivosFijos\Server\bin\Debug\net9.0\es-PA\ActivosFiljos.Client.resources.dll
 C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\compressed\skw2n76jpc-m6wfvkp0tf.gz
 C:\Projects\AF2024\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-02c4j43m5t.gz
+S:\Projects\ActivosFijos\Server\bin\Debug\net9.0\en\ActivosFiljos.Client.resources.dll
+S:\Projects\ActivosFijos\Server\bin\Debug\net9.0\es-PA\ActivosFiljos.Client.resources.dll
+S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-m32nool4y4.gz
