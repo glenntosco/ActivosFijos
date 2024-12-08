@@ -668,4 +668,4 @@ S:\Projects\ActivosFijos\Server\bin\Debug\net9.0\en\ActivosFiljos.Client.resourc
 S:\Projects\ActivosFijos\Server\bin\Debug\net9.0\es-PA\ActivosFiljos.Client.resources.dll
 S:\Projects\ActivosFijos\Server\bin\Debug\net9.0\Microsoft.AspNetCore.HeaderPropagation.dll
 S:\Projects\ActivosFijos\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-j7qb0im47v.gz
+S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-tfuvxkdcyt.gz
