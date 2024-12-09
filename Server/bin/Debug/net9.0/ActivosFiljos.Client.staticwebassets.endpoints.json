@@ -25,7 +25,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9O+Wapzoi5SUIi0eASIdQ820hk6zXGEP+ZaECmB1jTM=\""
+          "Value": "\"WxpG14uejeJHbRGcjKoOC8f6tqghZDFWVeHD317LojM=\""
         },
         {
           "Name": "Last-Modified",
@@ -35,7 +35,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9O+Wapzoi5SUIi0eASIdQ820hk6zXGEP+ZaECmB1jTM="
+          "Value": "sha256-WxpG14uejeJHbRGcjKoOC8f6tqghZDFWVeHD317LojM="
         }
       ]
     },
@@ -6147,8 +6147,8 @@
       ]
     },
     {
-      "Route": "_framework/ActivosFiljos.Client.1gcvxpoj13.pdb",
-      "AssetFile": "_framework/ActivosFiljos.Client.1gcvxpoj13.pdb",
+      "Route": "_framework/ActivosFiljos.Client.290t3av7g2.wasm",
+      "AssetFile": "_framework/ActivosFiljos.Client.290t3av7g2.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6161,168 +6161,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "490932"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wVWzdv2KSyZTBElN/tIPuGm2J9XGa+5Y4ugoS6ljZ34=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:16 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1gcvxpoj13"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wVWzdv2KSyZTBElN/tIPuGm2J9XGa+5Y4ugoS6ljZ34="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ActivosFiljos.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.1gcvxpoj13.pdb",
-      "AssetFile": "_framework/ActivosFiljos.Client.1gcvxpoj13.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000002692080"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "371459"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"luCsx3buLWDROZTBKcn9N0NCHR9yWxnRfCFgWSfzCiE=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wVWzdv2KSyZTBElN/tIPuGm2J9XGa+5Y4ugoS6ljZ34=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1gcvxpoj13"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wVWzdv2KSyZTBElN/tIPuGm2J9XGa+5Y4ugoS6ljZ34="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ActivosFiljos.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.1gcvxpoj13.pdb.gz",
-      "AssetFile": "_framework/ActivosFiljos.Client.1gcvxpoj13.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "371459"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"luCsx3buLWDROZTBKcn9N0NCHR9yWxnRfCFgWSfzCiE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1gcvxpoj13"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-luCsx3buLWDROZTBKcn9N0NCHR9yWxnRfCFgWSfzCiE="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ActivosFiljos.Client.pdb.gz"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ActivosFiljos.Client.duez5r29ws.wasm",
-      "AssetFile": "_framework/ActivosFiljos.Client.duez5r29ws.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1003797"
+          "Value": "1003285"
         },
         {
           "Name": "Content-Type",
@@ -6330,21 +6169,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"G/m4x1rbTHOM4xyI3bC1SkG+sJNY08N253hdebhY3XM=\""
+          "Value": "\"hqHKxbBwTBxTP8NNYVCkwH01+7NScXfZ7qfgMIJ8oMo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:17 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:10 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "duez5r29ws"
+          "Value": "290t3av7g2"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-G/m4x1rbTHOM4xyI3bC1SkG+sJNY08N253hdebhY3XM="
+          "Value": "sha256-hqHKxbBwTBxTP8NNYVCkwH01+7NScXfZ7qfgMIJ8oMo="
         },
         {
           "Name": "label",
@@ -6353,13 +6192,13 @@
       ]
     },
     {
-      "Route": "_framework/ActivosFiljos.Client.duez5r29ws.wasm",
-      "AssetFile": "_framework/ActivosFiljos.Client.duez5r29ws.wasm.gz",
+      "Route": "_framework/ActivosFiljos.Client.290t3av7g2.wasm",
+      "AssetFile": "_framework/ActivosFiljos.Client.290t3av7g2.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000004013711"
+          "Quality": "0.000004018711"
         }
       ],
       "ResponseHeaders": [
@@ -6377,7 +6216,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "249145"
+          "Value": "248835"
         },
         {
           "Name": "Content-Type",
@@ -6385,15 +6224,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YSC+/bdGkWVzpPoljEGgpJUrmscgoav/MwZ8qYtVW8Y=\""
+          "Value": "\"eWHbDEl0gwqAMJBCWF25OUymEgA5I6l3MaXwi6uSgOo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"G/m4x1rbTHOM4xyI3bC1SkG+sJNY08N253hdebhY3XM=\""
+          "Value": "W/\"hqHKxbBwTBxTP8NNYVCkwH01+7NScXfZ7qfgMIJ8oMo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:11 GMT"
         },
         {
           "Name": "Vary",
@@ -6403,11 +6242,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "duez5r29ws"
+          "Value": "290t3av7g2"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-G/m4x1rbTHOM4xyI3bC1SkG+sJNY08N253hdebhY3XM="
+          "Value": "sha256-hqHKxbBwTBxTP8NNYVCkwH01+7NScXfZ7qfgMIJ8oMo="
         },
         {
           "Name": "label",
@@ -6416,8 +6255,8 @@
       ]
     },
     {
-      "Route": "_framework/ActivosFiljos.Client.duez5r29ws.wasm.gz",
-      "AssetFile": "_framework/ActivosFiljos.Client.duez5r29ws.wasm.gz",
+      "Route": "_framework/ActivosFiljos.Client.290t3av7g2.wasm.gz",
+      "AssetFile": "_framework/ActivosFiljos.Client.290t3av7g2.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6434,7 +6273,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "249145"
+          "Value": "248835"
         },
         {
           "Name": "Content-Type",
@@ -6442,11 +6281,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YSC+/bdGkWVzpPoljEGgpJUrmscgoav/MwZ8qYtVW8Y=\""
+          "Value": "\"eWHbDEl0gwqAMJBCWF25OUymEgA5I6l3MaXwi6uSgOo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:11 GMT"
         },
         {
           "Name": "Vary",
@@ -6456,11 +6295,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "duez5r29ws"
+          "Value": "290t3av7g2"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YSC+/bdGkWVzpPoljEGgpJUrmscgoav/MwZ8qYtVW8Y="
+          "Value": "sha256-eWHbDEl0gwqAMJBCWF25OUymEgA5I6l3MaXwi6uSgOo="
         },
         {
           "Name": "label",
@@ -6469,8 +6308,169 @@
       ]
     },
     {
+      "Route": "_framework/ActivosFiljos.Client.eyro4mgm3h.pdb",
+      "AssetFile": "_framework/ActivosFiljos.Client.eyro4mgm3h.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "490744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hr9TqzC+Qiw+wc4vYYIr+HwOtdpJkRBbr6pTMcUVOx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 13:23:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eyro4mgm3h"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hr9TqzC+Qiw+wc4vYYIr+HwOtdpJkRBbr6pTMcUVOx4="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ActivosFiljos.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.eyro4mgm3h.pdb",
+      "AssetFile": "_framework/ActivosFiljos.Client.eyro4mgm3h.pdb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000002693334"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pZ3dSfwU3MEzNPhf/+HfLWYRPurlN0gTL9aEx6KEA7U=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hr9TqzC+Qiw+wc4vYYIr+HwOtdpJkRBbr6pTMcUVOx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 13:23:11 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eyro4mgm3h"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hr9TqzC+Qiw+wc4vYYIr+HwOtdpJkRBbr6pTMcUVOx4="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ActivosFiljos.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ActivosFiljos.Client.eyro4mgm3h.pdb.gz",
+      "AssetFile": "_framework/ActivosFiljos.Client.eyro4mgm3h.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pZ3dSfwU3MEzNPhf/+HfLWYRPurlN0gTL9aEx6KEA7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 13:23:11 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eyro4mgm3h"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pZ3dSfwU3MEzNPhf/+HfLWYRPurlN0gTL9aEx6KEA7U="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ActivosFiljos.Client.pdb.gz"
+        }
+      ]
+    },
+    {
       "Route": "_framework/ActivosFiljos.Client.pdb",
-      "AssetFile": "_framework/ActivosFiljos.Client.1gcvxpoj13.pdb",
+      "AssetFile": "_framework/ActivosFiljos.Client.eyro4mgm3h.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6483,7 +6483,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "490932"
+          "Value": "490744"
         },
         {
           "Name": "Content-Type",
@@ -6491,28 +6491,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wVWzdv2KSyZTBElN/tIPuGm2J9XGa+5Y4ugoS6ljZ34=\""
+          "Value": "\"hr9TqzC+Qiw+wc4vYYIr+HwOtdpJkRBbr6pTMcUVOx4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:16 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:09 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wVWzdv2KSyZTBElN/tIPuGm2J9XGa+5Y4ugoS6ljZ34="
+          "Value": "sha256-hr9TqzC+Qiw+wc4vYYIr+HwOtdpJkRBbr6pTMcUVOx4="
         }
       ]
     },
     {
       "Route": "_framework/ActivosFiljos.Client.pdb",
-      "AssetFile": "_framework/ActivosFiljos.Client.1gcvxpoj13.pdb.gz",
+      "AssetFile": "_framework/ActivosFiljos.Client.eyro4mgm3h.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000002692080"
+          "Quality": "0.000002693334"
         }
       ],
       "ResponseHeaders": [
@@ -6530,7 +6530,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "371459"
+          "Value": "371286"
         },
         {
           "Name": "Content-Type",
@@ -6538,15 +6538,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"luCsx3buLWDROZTBKcn9N0NCHR9yWxnRfCFgWSfzCiE=\""
+          "Value": "\"pZ3dSfwU3MEzNPhf/+HfLWYRPurlN0gTL9aEx6KEA7U=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wVWzdv2KSyZTBElN/tIPuGm2J9XGa+5Y4ugoS6ljZ34=\""
+          "Value": "W/\"hr9TqzC+Qiw+wc4vYYIr+HwOtdpJkRBbr6pTMcUVOx4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:11 GMT"
         },
         {
           "Name": "Vary",
@@ -6556,13 +6556,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wVWzdv2KSyZTBElN/tIPuGm2J9XGa+5Y4ugoS6ljZ34="
+          "Value": "sha256-hr9TqzC+Qiw+wc4vYYIr+HwOtdpJkRBbr6pTMcUVOx4="
         }
       ]
     },
     {
       "Route": "_framework/ActivosFiljos.Client.pdb.gz",
-      "AssetFile": "_framework/ActivosFiljos.Client.1gcvxpoj13.pdb.gz",
+      "AssetFile": "_framework/ActivosFiljos.Client.eyro4mgm3h.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6579,7 +6579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "371459"
+          "Value": "371286"
         },
         {
           "Name": "Content-Type",
@@ -6587,11 +6587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"luCsx3buLWDROZTBKcn9N0NCHR9yWxnRfCFgWSfzCiE=\""
+          "Value": "\"pZ3dSfwU3MEzNPhf/+HfLWYRPurlN0gTL9aEx6KEA7U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:11 GMT"
         },
         {
           "Name": "Vary",
@@ -6601,13 +6601,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-luCsx3buLWDROZTBKcn9N0NCHR9yWxnRfCFgWSfzCiE="
+          "Value": "sha256-pZ3dSfwU3MEzNPhf/+HfLWYRPurlN0gTL9aEx6KEA7U="
         }
       ]
     },
     {
       "Route": "_framework/ActivosFiljos.Client.wasm",
-      "AssetFile": "_framework/ActivosFiljos.Client.duez5r29ws.wasm",
+      "AssetFile": "_framework/ActivosFiljos.Client.290t3av7g2.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6620,7 +6620,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1003797"
+          "Value": "1003285"
         },
         {
           "Name": "Content-Type",
@@ -6628,28 +6628,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"G/m4x1rbTHOM4xyI3bC1SkG+sJNY08N253hdebhY3XM=\""
+          "Value": "\"hqHKxbBwTBxTP8NNYVCkwH01+7NScXfZ7qfgMIJ8oMo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:17 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:10 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-G/m4x1rbTHOM4xyI3bC1SkG+sJNY08N253hdebhY3XM="
+          "Value": "sha256-hqHKxbBwTBxTP8NNYVCkwH01+7NScXfZ7qfgMIJ8oMo="
         }
       ]
     },
     {
       "Route": "_framework/ActivosFiljos.Client.wasm",
-      "AssetFile": "_framework/ActivosFiljos.Client.duez5r29ws.wasm.gz",
+      "AssetFile": "_framework/ActivosFiljos.Client.290t3av7g2.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000004013711"
+          "Quality": "0.000004018711"
         }
       ],
       "ResponseHeaders": [
@@ -6667,7 +6667,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "249145"
+          "Value": "248835"
         },
         {
           "Name": "Content-Type",
@@ -6675,15 +6675,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YSC+/bdGkWVzpPoljEGgpJUrmscgoav/MwZ8qYtVW8Y=\""
+          "Value": "\"eWHbDEl0gwqAMJBCWF25OUymEgA5I6l3MaXwi6uSgOo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"G/m4x1rbTHOM4xyI3bC1SkG+sJNY08N253hdebhY3XM=\""
+          "Value": "W/\"hqHKxbBwTBxTP8NNYVCkwH01+7NScXfZ7qfgMIJ8oMo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:11 GMT"
         },
         {
           "Name": "Vary",
@@ -6693,13 +6693,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-G/m4x1rbTHOM4xyI3bC1SkG+sJNY08N253hdebhY3XM="
+          "Value": "sha256-hqHKxbBwTBxTP8NNYVCkwH01+7NScXfZ7qfgMIJ8oMo="
         }
       ]
     },
     {
       "Route": "_framework/ActivosFiljos.Client.wasm.gz",
-      "AssetFile": "_framework/ActivosFiljos.Client.duez5r29ws.wasm.gz",
+      "AssetFile": "_framework/ActivosFiljos.Client.290t3av7g2.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6716,7 +6716,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "249145"
+          "Value": "248835"
         },
         {
           "Name": "Content-Type",
@@ -6724,11 +6724,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YSC+/bdGkWVzpPoljEGgpJUrmscgoav/MwZ8qYtVW8Y=\""
+          "Value": "\"eWHbDEl0gwqAMJBCWF25OUymEgA5I6l3MaXwi6uSgOo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:11 GMT"
         },
         {
           "Name": "Vary",
@@ -6738,7 +6738,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YSC+/bdGkWVzpPoljEGgpJUrmscgoav/MwZ8qYtVW8Y="
+          "Value": "sha256-eWHbDEl0gwqAMJBCWF25OUymEgA5I6l3MaXwi6uSgOo="
         }
       ]
     },
@@ -69047,17 +69047,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V0B774NdvVxm4+oSpO4tD7br5r2d2om13eQLMF5lDrI=\""
+          "Value": "\"w5j6Jnl4LabqM7GtO8fOrgVngO0o1DZzbLffFDVTh/E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:10 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V0B774NdvVxm4+oSpO4tD7br5r2d2om13eQLMF5lDrI="
+          "Value": "sha256-w5j6Jnl4LabqM7GtO8fOrgVngO0o1DZzbLffFDVTh/E="
         }
       ]
     },
@@ -69094,15 +69094,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5p7C4qI+mtbJz7zMzvAMy6FmKXtY2J67II0/ViJeenQ=\""
+          "Value": "\"PMZzh35yxILaeahtl2WZNoGcci5aabw6+6MZjOYckLM=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"V0B774NdvVxm4+oSpO4tD7br5r2d2om13eQLMF5lDrI=\""
+          "Value": "W/\"w5j6Jnl4LabqM7GtO8fOrgVngO0o1DZzbLffFDVTh/E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:33:01 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -69112,7 +69112,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V0B774NdvVxm4+oSpO4tD7br5r2d2om13eQLMF5lDrI="
+          "Value": "sha256-w5j6Jnl4LabqM7GtO8fOrgVngO0o1DZzbLffFDVTh/E="
         }
       ]
     },
@@ -69143,11 +69143,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5p7C4qI+mtbJz7zMzvAMy6FmKXtY2J67II0/ViJeenQ=\""
+          "Value": "\"PMZzh35yxILaeahtl2WZNoGcci5aabw6+6MZjOYckLM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:33:01 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -69157,7 +69157,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5p7C4qI+mtbJz7zMzvAMy6FmKXtY2J67II0/ViJeenQ="
+          "Value": "sha256-PMZzh35yxILaeahtl2WZNoGcci5aabw6+6MZjOYckLM="
         }
       ]
     },
@@ -71087,8 +71087,8 @@
       ]
     },
     {
-      "Route": "_framework/en/ActivosFiljos.Client.resources.lfqhxscty8.wasm",
-      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.lfqhxscty8.wasm",
+      "Route": "_framework/en/ActivosFiljos.Client.resources.449g2z3dai.wasm",
+      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.449g2z3dai.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71109,21 +71109,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7653LKXI4hSA2IsFu1tciGUU9gRGbGQMprsZv9tVPzI=\""
+          "Value": "\"JLD7XQos4dAUCkFwtaqnyHH7RcJ8ul/OnR5W95rgkfg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:56 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lfqhxscty8"
+          "Value": "449g2z3dai"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7653LKXI4hSA2IsFu1tciGUU9gRGbGQMprsZv9tVPzI="
+          "Value": "sha256-JLD7XQos4dAUCkFwtaqnyHH7RcJ8ul/OnR5W95rgkfg="
         },
         {
           "Name": "label",
@@ -71132,13 +71132,13 @@
       ]
     },
     {
-      "Route": "_framework/en/ActivosFiljos.Client.resources.lfqhxscty8.wasm",
-      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.lfqhxscty8.wasm.gz",
+      "Route": "_framework/en/ActivosFiljos.Client.resources.449g2z3dai.wasm",
+      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.449g2z3dai.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000710227273"
+          "Quality": "0.000708215297"
         }
       ],
       "ResponseHeaders": [
@@ -71156,7 +71156,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1407"
+          "Value": "1411"
         },
         {
           "Name": "Content-Type",
@@ -71164,15 +71164,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4QAikLQsw5ooDf+VBXygidsy39dhpKciFLL/sbM0Y0A=\""
+          "Value": "\"hDra2Tlxrf8WfD/d0eho27gXa5f01W4Qh0Fqyqbpf3Y=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7653LKXI4hSA2IsFu1tciGUU9gRGbGQMprsZv9tVPzI=\""
+          "Value": "W/\"JLD7XQos4dAUCkFwtaqnyHH7RcJ8ul/OnR5W95rgkfg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:57 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -71182,11 +71182,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lfqhxscty8"
+          "Value": "449g2z3dai"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7653LKXI4hSA2IsFu1tciGUU9gRGbGQMprsZv9tVPzI="
+          "Value": "sha256-JLD7XQos4dAUCkFwtaqnyHH7RcJ8ul/OnR5W95rgkfg="
         },
         {
           "Name": "label",
@@ -71195,8 +71195,8 @@
       ]
     },
     {
-      "Route": "_framework/en/ActivosFiljos.Client.resources.lfqhxscty8.wasm.gz",
-      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.lfqhxscty8.wasm.gz",
+      "Route": "_framework/en/ActivosFiljos.Client.resources.449g2z3dai.wasm.gz",
+      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.449g2z3dai.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71213,7 +71213,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1407"
+          "Value": "1411"
         },
         {
           "Name": "Content-Type",
@@ -71221,11 +71221,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4QAikLQsw5ooDf+VBXygidsy39dhpKciFLL/sbM0Y0A=\""
+          "Value": "\"hDra2Tlxrf8WfD/d0eho27gXa5f01W4Qh0Fqyqbpf3Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:57 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -71235,11 +71235,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lfqhxscty8"
+          "Value": "449g2z3dai"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4QAikLQsw5ooDf+VBXygidsy39dhpKciFLL/sbM0Y0A="
+          "Value": "sha256-hDra2Tlxrf8WfD/d0eho27gXa5f01W4Qh0Fqyqbpf3Y="
         },
         {
           "Name": "label",
@@ -71249,7 +71249,7 @@
     },
     {
       "Route": "_framework/en/ActivosFiljos.Client.resources.wasm",
-      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.lfqhxscty8.wasm",
+      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.449g2z3dai.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71270,28 +71270,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7653LKXI4hSA2IsFu1tciGUU9gRGbGQMprsZv9tVPzI=\""
+          "Value": "\"JLD7XQos4dAUCkFwtaqnyHH7RcJ8ul/OnR5W95rgkfg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:56 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7653LKXI4hSA2IsFu1tciGUU9gRGbGQMprsZv9tVPzI="
+          "Value": "sha256-JLD7XQos4dAUCkFwtaqnyHH7RcJ8ul/OnR5W95rgkfg="
         }
       ]
     },
     {
       "Route": "_framework/en/ActivosFiljos.Client.resources.wasm",
-      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.lfqhxscty8.wasm.gz",
+      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.449g2z3dai.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000710227273"
+          "Quality": "0.000708215297"
         }
       ],
       "ResponseHeaders": [
@@ -71309,7 +71309,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1407"
+          "Value": "1411"
         },
         {
           "Name": "Content-Type",
@@ -71317,15 +71317,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4QAikLQsw5ooDf+VBXygidsy39dhpKciFLL/sbM0Y0A=\""
+          "Value": "\"hDra2Tlxrf8WfD/d0eho27gXa5f01W4Qh0Fqyqbpf3Y=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7653LKXI4hSA2IsFu1tciGUU9gRGbGQMprsZv9tVPzI=\""
+          "Value": "W/\"JLD7XQos4dAUCkFwtaqnyHH7RcJ8ul/OnR5W95rgkfg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:57 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -71335,13 +71335,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7653LKXI4hSA2IsFu1tciGUU9gRGbGQMprsZv9tVPzI="
+          "Value": "sha256-JLD7XQos4dAUCkFwtaqnyHH7RcJ8ul/OnR5W95rgkfg="
         }
       ]
     },
     {
       "Route": "_framework/en/ActivosFiljos.Client.resources.wasm.gz",
-      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.lfqhxscty8.wasm.gz",
+      "AssetFile": "_framework/en/ActivosFiljos.Client.resources.449g2z3dai.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71358,7 +71358,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1407"
+          "Value": "1411"
         },
         {
           "Name": "Content-Type",
@@ -71366,11 +71366,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4QAikLQsw5ooDf+VBXygidsy39dhpKciFLL/sbM0Y0A=\""
+          "Value": "\"hDra2Tlxrf8WfD/d0eho27gXa5f01W4Qh0Fqyqbpf3Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:57 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -71380,13 +71380,174 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4QAikLQsw5ooDf+VBXygidsy39dhpKciFLL/sbM0Y0A="
+          "Value": "sha256-hDra2Tlxrf8WfD/d0eho27gXa5f01W4Qh0Fqyqbpf3Y="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.02atgiddsw.wasm",
+      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.02atgiddsw.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2H/oJnq/R5GwWPrhYrwKZelRGtQlICzxPcseHjmpTIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02atgiddsw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2H/oJnq/R5GwWPrhYrwKZelRGtQlICzxPcseHjmpTIU="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/es-PA/ActivosFiljos.Client.resources.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.02atgiddsw.wasm",
+      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.02atgiddsw.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000705218618"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uT3FQGWcOEFudNl4DmjGwimwi1tZqoMwXzFUoOqxjNI=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2H/oJnq/R5GwWPrhYrwKZelRGtQlICzxPcseHjmpTIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02atgiddsw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2H/oJnq/R5GwWPrhYrwKZelRGtQlICzxPcseHjmpTIU="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/es-PA/ActivosFiljos.Client.resources.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.02atgiddsw.wasm.gz",
+      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.02atgiddsw.wasm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uT3FQGWcOEFudNl4DmjGwimwi1tZqoMwXzFUoOqxjNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02atgiddsw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uT3FQGWcOEFudNl4DmjGwimwi1tZqoMwXzFUoOqxjNI="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/es-PA/ActivosFiljos.Client.resources.wasm.gz"
         }
       ]
     },
     {
       "Route": "_framework/es-PA/ActivosFiljos.Client.resources.wasm",
-      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.wjzgoekylx.wasm",
+      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.02atgiddsw.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71407,28 +71568,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BBg9KoWWcruRXr7MlNLM7fLFsegd+QeRlNejMPgQjbo=\""
+          "Value": "\"2H/oJnq/R5GwWPrhYrwKZelRGtQlICzxPcseHjmpTIU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:56 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BBg9KoWWcruRXr7MlNLM7fLFsegd+QeRlNejMPgQjbo="
+          "Value": "sha256-2H/oJnq/R5GwWPrhYrwKZelRGtQlICzxPcseHjmpTIU="
         }
       ]
     },
     {
       "Route": "_framework/es-PA/ActivosFiljos.Client.resources.wasm",
-      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.wjzgoekylx.wasm.gz",
+      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.02atgiddsw.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000704721635"
+          "Quality": "0.000705218618"
         }
       ],
       "ResponseHeaders": [
@@ -71446,7 +71607,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1418"
+          "Value": "1417"
         },
         {
           "Name": "Content-Type",
@@ -71454,15 +71615,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aXGnqUMW54IHTP0okkCj7SmAF2Tv3aslDPLXT2pecD8=\""
+          "Value": "\"uT3FQGWcOEFudNl4DmjGwimwi1tZqoMwXzFUoOqxjNI=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BBg9KoWWcruRXr7MlNLM7fLFsegd+QeRlNejMPgQjbo=\""
+          "Value": "W/\"2H/oJnq/R5GwWPrhYrwKZelRGtQlICzxPcseHjmpTIU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:57 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -71472,13 +71633,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BBg9KoWWcruRXr7MlNLM7fLFsegd+QeRlNejMPgQjbo="
+          "Value": "sha256-2H/oJnq/R5GwWPrhYrwKZelRGtQlICzxPcseHjmpTIU="
         }
       ]
     },
     {
       "Route": "_framework/es-PA/ActivosFiljos.Client.resources.wasm.gz",
-      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.wjzgoekylx.wasm.gz",
+      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.02atgiddsw.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71495,7 +71656,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1418"
+          "Value": "1417"
         },
         {
           "Name": "Content-Type",
@@ -71503,11 +71664,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aXGnqUMW54IHTP0okkCj7SmAF2Tv3aslDPLXT2pecD8=\""
+          "Value": "\"uT3FQGWcOEFudNl4DmjGwimwi1tZqoMwXzFUoOqxjNI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:57 GMT"
+          "Value": "Mon, 09 Dec 2024 13:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -71517,168 +71678,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aXGnqUMW54IHTP0okkCj7SmAF2Tv3aslDPLXT2pecD8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.wjzgoekylx.wasm",
-      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.wjzgoekylx.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3861"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BBg9KoWWcruRXr7MlNLM7fLFsegd+QeRlNejMPgQjbo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:56 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wjzgoekylx"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BBg9KoWWcruRXr7MlNLM7fLFsegd+QeRlNejMPgQjbo="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/es-PA/ActivosFiljos.Client.resources.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.wjzgoekylx.wasm",
-      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.wjzgoekylx.wasm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000704721635"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1418"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aXGnqUMW54IHTP0okkCj7SmAF2Tv3aslDPLXT2pecD8=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"BBg9KoWWcruRXr7MlNLM7fLFsegd+QeRlNejMPgQjbo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:57 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wjzgoekylx"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BBg9KoWWcruRXr7MlNLM7fLFsegd+QeRlNejMPgQjbo="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/es-PA/ActivosFiljos.Client.resources.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/es-PA/ActivosFiljos.Client.resources.wjzgoekylx.wasm.gz",
-      "AssetFile": "_framework/es-PA/ActivosFiljos.Client.resources.wjzgoekylx.wasm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1418"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aXGnqUMW54IHTP0okkCj7SmAF2Tv3aslDPLXT2pecD8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:32:57 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wjzgoekylx"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aXGnqUMW54IHTP0okkCj7SmAF2Tv3aslDPLXT2pecD8="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/es-PA/ActivosFiljos.Client.resources.wasm.gz"
+          "Value": "sha256-uT3FQGWcOEFudNl4DmjGwimwi1tZqoMwXzFUoOqxjNI="
         }
       ]
     },
@@ -72583,7 +72583,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000076347534"
+          "Quality": "0.000076370857"
         }
       ],
       "ResponseHeaders": [
@@ -72601,7 +72601,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13097"
+          "Value": "13093"
         },
         {
           "Name": "Content-Type",
@@ -72609,15 +72609,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Kumh5axjpdNp5Smy5Zka2FXRavU7fkc+BiXiXR4zMcY=\""
+          "Value": "\"ABetfnxQnLIvv8hdCd0s+uomH6UoKVrKfZ9Rp1CiT2c=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PYN+g+WNr2iSSfdoB42rSNRC+rN5GcqXaGgDjsM/a+E=\""
+          "Value": "W/\"Uz+Yb/j0UCt7oefd3aUGVjAYNCX9PqKSM0U5bJUBGsc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:10 GMT"
         },
         {
           "Name": "Vary",
@@ -72627,7 +72627,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PYN+g+WNr2iSSfdoB42rSNRC+rN5GcqXaGgDjsM/a+E="
+          "Value": "sha256-Uz+Yb/j0UCt7oefd3aUGVjAYNCX9PqKSM0U5bJUBGsc="
         }
       ]
     },
@@ -72654,17 +72654,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PYN+g+WNr2iSSfdoB42rSNRC+rN5GcqXaGgDjsM/a+E=\""
+          "Value": "\"Uz+Yb/j0UCt7oefd3aUGVjAYNCX9PqKSM0U5bJUBGsc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:10 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PYN+g+WNr2iSSfdoB42rSNRC+rN5GcqXaGgDjsM/a+E="
+          "Value": "sha256-Uz+Yb/j0UCt7oefd3aUGVjAYNCX9PqKSM0U5bJUBGsc="
         }
       ]
     },
@@ -72687,7 +72687,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13097"
+          "Value": "13093"
         },
         {
           "Name": "Content-Type",
@@ -72695,11 +72695,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Kumh5axjpdNp5Smy5Zka2FXRavU7fkc+BiXiXR4zMcY=\""
+          "Value": "\"ABetfnxQnLIvv8hdCd0s+uomH6UoKVrKfZ9Rp1CiT2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 12:39:18 GMT"
+          "Value": "Mon, 09 Dec 2024 13:23:10 GMT"
         },
         {
           "Name": "Vary",
@@ -72709,7 +72709,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Kumh5axjpdNp5Smy5Zka2FXRavU7fkc+BiXiXR4zMcY="
+          "Value": "sha256-ABetfnxQnLIvv8hdCd0s+uomH6UoKVrKfZ9Rp1CiT2c="
         }
       ]
     }
