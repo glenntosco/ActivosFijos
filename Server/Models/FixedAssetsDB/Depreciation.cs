@@ -24,6 +24,7 @@ namespace ActivosFiljos.Server.Models.FixedAssetsDB
 
         public int? UsefulLifeYears { get; set; }
 
+        
         public decimal? SalvageValue { get; set; }
 
         public DateTime? DepreciationStartDate { get; set; }
