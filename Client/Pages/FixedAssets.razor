@@ -1,7 +1,7 @@
 @inject Microsoft.Extensions.Localization.IStringLocalizer<FixedAssets> L
 @page "/fixed-assets"
 
-@attribute [Authorize]
+@attribute [Authorize(Roles="Administrator")]
 
 <PageTitle>FixedAssets</PageTitle>
 <RadzenStack>
@@ -23,12 +23,15 @@
     <RadzenRow>
       <RadzenColumn SizeMD=12>
         <RadzenDataGrid @ref="grid0" ColumnWidth="200px"   AllowFiltering="true" FilterMode="FilterMode.Advanced" AllowPaging="true" AllowSorting="true" ShowPagingSummary="true" PageSizeOptions=@(new int[]{5, 10, 20, 30})
-            Data="@fixedAssets" LoadData="@Grid0LoadData" Count="@count" TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" RowDoubleClick="@EditRow" AllowGrouping="false" AllowColumnPicking="true" ColumnsPickerAllowFiltering="true" AllowColumnResize="true" AllowColumnReorder="true" AllowVirtualization="false" Responsive="false" AllowAlternatingRows="true" Density="Radzen.Density.Default" AllowCompositeDataCells="true" AllowFilterDateInput="true" GroupFootersAlwaysVisible="false" PagerAlwaysVisible="true" PageNumbersCount="50" PageSize="50" Style="height: 501px" AllowMultiColumnSorting="true" ShowMultiColumnSortingIndex="true" GotoFirstPageOnSort="true">
+            Data="@fixedAssets" LoadData="@Grid0LoadData" Count="@count" TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" RowDoubleClick="@EditRow" AllowGrouping="false" AllowColumnPicking="true" ColumnsPickerAllowFiltering="true" AllowColumnResize="true" AllowColumnReorder="true" AllowVirtualization="false" Responsive="false" AllowAlternatingRows="true" Density="Radzen.Density.Default" AllowCompositeDataCells="true" AllowFilterDateInput="true" GroupFootersAlwaysVisible="true" PagerAlwaysVisible="true" PageNumbersCount="50" PageSize="50" Style="height: 824px" AllowMultiColumnSorting="true" ShowMultiColumnSortingIndex="true" GotoFirstPageOnSort="true">
             <Columns>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetTag" Title="Asset Tag">
+                
                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetName" Title="Asset Name">
                 </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="PurchaseCost" Title="Purchase Cost">
+                                </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetCategory.CategoryName" Title="Asset Category">
                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="Location.LocationName" Title="Location">
@@ -36,8 +39,6 @@
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="User.FirstName" Title="User">
                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="PurchaseDate" Title="Purchase Date">
-                </RadzenDataGridColumn>
-                <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="PurchaseCost" Title="Purchase Cost">
                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="Manufacturer" Title="Manufacturer">
                 </RadzenDataGridColumn>
@@ -54,9 +55,10 @@
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="UpdatedAt" Title="Updated At">
                 </RadzenDataGridColumn>
             </Columns>
-
-        </RadzenDataGrid>
-
+      </RadzenDataGrid>
+    <FooterTemplate>
+                Total Assets Value: <b>@String.Format(new System.Globalization.CultureInfo("en-US"), "{0:C}", fixedAssets.Sum(o => o.PurchaseCost))</b>
+            </FooterTemplate>
     </RadzenColumn>
   </RadzenRow>
 </RadzenStack>
