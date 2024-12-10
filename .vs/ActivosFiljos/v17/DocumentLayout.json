@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "S:\\Projects\\ActivosFijos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B03F353-1442-4BA5-AA79-445D34A47D2D}|Client\\ActivosFiljos.Client.csproj|s:\\projects\\activosfijos\\client\\pages\\addassetinsurance.razor||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{4B03F353-1442-4BA5-AA79-445D34A47D2D}|Client\\ActivosFiljos.Client.csproj|solutionrelative:client\\pages\\addassetinsurance.razor||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B03F353-1442-4BA5-AA79-445D34A47D2D}|Client\\ActivosFiljos.Client.csproj|s:\\projects\\activosfijos\\client\\routes.razor||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{4B03F353-1442-4BA5-AA79-445D34A47D2D}|Client\\ActivosFiljos.Client.csproj|solutionrelative:client\\routes.razor||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66640071-E46A-4CE6-B4E1-617ACA428821}|Server\\ActivosFiljos.Server.csproj|s:\\projects\\activosfijos\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66640071-E46A-4CE6-B4E1-617ACA428821}|Server\\ActivosFiljos.Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +43,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddAssetInsurance.razor",
+              "DocumentMoniker": "S:\\Projects\\ActivosFijos\\Client\\Pages\\AddAssetInsurance.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\AddAssetInsurance.razor",
+              "ToolTip": "S:\\Projects\\ActivosFijos\\Client\\Pages\\AddAssetInsurance.razor*",
+              "RelativeToolTip": "Client\\Pages\\AddAssetInsurance.razor*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:56:07.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "S:\\Projects\\ActivosFijos\\Client\\Routes.razor",
+              "RelativeDocumentMoniker": "Client\\Routes.razor",
+              "ToolTip": "S:\\Projects\\ActivosFijos\\Client\\Routes.razor",
+              "RelativeToolTip": "Client\\Routes.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:55:53.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "S:\\Projects\\ActivosFijos\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
@@ -47,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FixedAssets.razor",
               "DocumentMoniker": "S:\\Projects\\ActivosFijos\\Client\\Pages\\FixedAssets.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\FixedAssets.razor",
