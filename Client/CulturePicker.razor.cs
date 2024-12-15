@@ -33,6 +33,9 @@ namespace ActivosFiljos.Client
 
         protected string culture;
 
+        [Inject]
+        protected SecurityService Security { get; set; }
+
         protected override void OnInitialized()
         {
             culture = CultureInfo.CurrentCulture.Name;

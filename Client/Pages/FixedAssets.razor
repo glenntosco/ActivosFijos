@@ -31,10 +31,7 @@
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetName" Title="Asset Name">
                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="PurchaseCost" Title="Purchase Cost" FormatString="">
-                <Template Context="data">
-                     @($"$ {data.PurchaseCost:N}")
-                </Template>
-                </RadzenDataGridColumn>
+                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetCategory.CategoryName" Title="Asset Category">
                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="Location.LocationName" Title="Location">

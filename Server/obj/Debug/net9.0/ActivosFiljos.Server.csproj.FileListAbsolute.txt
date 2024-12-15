@@ -668,4 +668,4 @@ S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\refint\ActivosFiljos.Server.dll
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\ActivosFiljos.Server.pdb
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\ActivosFiljos.Server.genruntimeconfig.cache
 S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\ref\ActivosFiljos.Server.dll
-S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-z1bwl6g3v1.gz
+S:\Projects\ActivosFijos\Server\obj\Debug\net9.0\compressed\gsaho0fopw-3lq6v4i1he.gz

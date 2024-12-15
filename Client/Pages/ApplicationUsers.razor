@@ -1,5 +1,6 @@
 @page "/application-users"
 @attribute [Authorize]
+@inject Microsoft.Extensions.Localization.IStringLocalizer<ApplicationUsers> L
 
 <PageTitle>Users</PageTitle>
 <RadzenStack>

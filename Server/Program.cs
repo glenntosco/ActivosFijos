@@ -11,12 +11,6 @@ using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Set culture to en-US globally
-var culture = new CultureInfo("en-US");
-CultureInfo.DefaultThreadCurrentCulture = culture;
-CultureInfo.DefaultThreadCurrentUICulture = culture;
-
-// Add services to the container.
 builder.Services.AddRazorComponents().AddInteractiveServerComponents().AddHubOptions(options => options.MaximumReceiveMessageSize = 10 * 1024 * 1024).AddInteractiveWebAssemblyComponents();
 builder.Services.AddControllers();
 builder.Services.AddRadzenComponents();
@@ -91,8 +85,8 @@ else
 
 app.UseHttpsRedirection();
 app.MapControllers();
-app.UseRequestLocalization(options => options.AddSupportedCultures("en", "es-PA").AddSupportedUICultures("en", "es-PA").SetDefaultCulture("en"));
 app.UseHeaderPropagation();
+app.UseRequestLocalization(options => options.AddSupportedCultures("es-PA", "en", "es-MX", "fr-CA").AddSupportedUICultures("es-PA", "en", "es-MX", "fr-CA").SetDefaultCulture("en"));
 app.UseStaticFiles();
 app.UseAuthentication();
 app.UseAuthorization();

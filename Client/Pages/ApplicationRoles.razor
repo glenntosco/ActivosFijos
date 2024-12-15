@@ -1,5 +1,6 @@
 @page "/application-roles"
 @attribute [Authorize(Roles="Administrator")]
+@inject Microsoft.Extensions.Localization.IStringLocalizer<ApplicationRoles> L
 
 <PageTitle>Roles</PageTitle>
 <RadzenStack>

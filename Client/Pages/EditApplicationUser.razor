@@ -1,5 +1,6 @@
 @page "/edit-application-user/{Id}"
 @attribute [Authorize]
+@inject Microsoft.Extensions.Localization.IStringLocalizer<EditApplicationUser> L
 
 <RadzenRow>
     <RadzenColumn SizeMD="12">

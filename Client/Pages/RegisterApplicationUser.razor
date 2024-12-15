@@ -1,6 +1,7 @@
 @page "/register-application-user"
 
 @attribute [Authorize]
+@inject Microsoft.Extensions.Localization.IStringLocalizer<RegisterApplicationUser> L
 <PageTitle>Register Application User</PageTitle>
 <RadzenRow>
     <RadzenColumn SizeMD="12">
