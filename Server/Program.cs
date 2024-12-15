@@ -10,6 +10,12 @@ using Microsoft.AspNetCore.Components.Authorization;
 using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Set culture to en-US globally
+var culture = new CultureInfo("en-US");
+CultureInfo.DefaultThreadCurrentCulture = culture;
+CultureInfo.DefaultThreadCurrentUICulture = culture;
+
 // Add services to the container.
 builder.Services.AddRazorComponents().AddInteractiveServerComponents().AddHubOptions(options => options.MaximumReceiveMessageSize = 10 * 1024 * 1024).AddInteractiveWebAssemblyComponents();
 builder.Services.AddControllers();
