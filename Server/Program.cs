@@ -7,6 +7,7 @@ using ActivosFiljos.Server.Data;
 using Microsoft.AspNetCore.Identity;
 using ActivosFiljos.Server.Models;
 using Microsoft.AspNetCore.Components.Authorization;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
