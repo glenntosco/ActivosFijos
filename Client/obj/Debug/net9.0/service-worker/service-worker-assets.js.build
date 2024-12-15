@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "+SmD1C+L",
+  "version": "+aKi+xYE",
   "assets": [
     {
       "hash": "sha256-kJXKqRCleT/Jk1wJUhUu24r2LAA7IWVYmdoENizE38M=",
@@ -146,12 +146,12 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-H+9aA+PRd5FF1JvuNZUSrgDhqGdZG8kuOFkwAxXrghE=",
-      "url": "_framework/ActivosFiljos.Client.7y9np1cdpu.pdb"
+      "hash": "sha256-7AWPjDPHqAjfoD+algYmwkTbCPnjvu7NMHrbW7Dik9s=",
+      "url": "_framework/ActivosFiljos.Client.g90nxydx37.pdb"
     },
     {
-      "hash": "sha256-2ovlyCtXbrUtifY8cqjX68VldZYmhP7+qeIciBR0mPA=",
-      "url": "_framework/ActivosFiljos.Client.y2bv6fu41a.wasm"
+      "hash": "sha256-zpUutkIuyV32DaRktSjq5AUNjOu6v2GVaQ4b4pvBmto=",
+      "url": "_framework/ActivosFiljos.Client.qmgkp8s1hi.wasm"
     },
     {
       "hash": "sha256-8hTdrmR59LAJRrDu8LLRlNn641/iWIAjzG1GcCsAhR0=",
@@ -990,7 +990,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.377bly7twj.wasm"
     },
     {
-      "hash": "sha256-7NCcUyAeA/zds8uGKCh/bTBIRk2zbQKskkigdDqB8io=",
+      "hash": "sha256-MzKY3pNl47EyynQRfOQRY2njO6hgt4btTT5aJL7H3BE=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -1022,12 +1022,12 @@ self.assetsManifest = {
       "url": "_framework/dotnet.runtime.o8gq1i8bk6.js"
     },
     {
-      "hash": "sha256-N9QyYA9DlBlzgQF6AZK7i0dWxVU1Y8W7fo0X6IFccDY=",
-      "url": "_framework/en/ActivosFiljos.Client.resources.fassm8eawx.wasm"
+      "hash": "sha256-bx+3OgQ40EhvwHH/OJZbK0U0E6dbUtH9G8xPdNH0DNI=",
+      "url": "_framework/en/ActivosFiljos.Client.resources.f88vsywqta.wasm"
     },
     {
-      "hash": "sha256-BF2Xc0S0S73b5lGvEpATmL4AbiBhVoTtMtaw9XIIM/I=",
-      "url": "_framework/es-PA/ActivosFiljos.Client.resources.k6101rnt8o.wasm"
+      "hash": "sha256-TiFQI/EGoRHOjcuPtB8Nd8YWgvEFNQUlqSNmQ0cfnZo=",
+      "url": "_framework/es-PA/ActivosFiljos.Client.resources.20vjf3q7i1.wasm"
     },
     {
       "hash": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=",

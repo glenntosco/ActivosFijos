@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ActivosFiljos.Client",
   "resources": {
-    "hash": "sha256-t7t+mqn/ocETkIDLEW10m4WYFjo/C5TpvotYxO6mx4k=",
+    "hash": "sha256-cWOqZN4BcttiFaW3jXaI/AO3DPP5JvZrwPB+mKxLtic=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -219,10 +219,10 @@
       "dotnet.native.p4lwlf2bu1.wasm": "dotnet.native.wasm",
       "dotnet.runtime.o8gq1i8bk6.js": "dotnet.runtime.js",
       "icudt.oh1zvcfom8.dat": "icudt.dat",
-      "ActivosFiljos.Client.y2bv6fu41a.wasm": "ActivosFiljos.Client.wasm",
-      "ActivosFiljos.Client.7y9np1cdpu.pdb": "ActivosFiljos.Client.pdb",
-      "ActivosFiljos.Client.resources.fassm8eawx.wasm": "ActivosFiljos.Client.resources.wasm",
-      "ActivosFiljos.Client.resources.k6101rnt8o.wasm": "ActivosFiljos.Client.resources.wasm"
+      "ActivosFiljos.Client.qmgkp8s1hi.wasm": "ActivosFiljos.Client.wasm",
+      "ActivosFiljos.Client.g90nxydx37.pdb": "ActivosFiljos.Client.pdb",
+      "ActivosFiljos.Client.resources.f88vsywqta.wasm": "ActivosFiljos.Client.resources.wasm",
+      "ActivosFiljos.Client.resources.20vjf3q7i1.wasm": "ActivosFiljos.Client.resources.wasm"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -450,17 +450,17 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "ActivosFiljos.Client.y2bv6fu41a.wasm": "sha256-2ovlyCtXbrUtifY8cqjX68VldZYmhP7+qeIciBR0mPA="
+      "ActivosFiljos.Client.qmgkp8s1hi.wasm": "sha256-zpUutkIuyV32DaRktSjq5AUNjOu6v2GVaQ4b4pvBmto="
     },
     "pdb": {
-      "ActivosFiljos.Client.7y9np1cdpu.pdb": "sha256-H+9aA+PRd5FF1JvuNZUSrgDhqGdZG8kuOFkwAxXrghE="
+      "ActivosFiljos.Client.g90nxydx37.pdb": "sha256-7AWPjDPHqAjfoD+algYmwkTbCPnjvu7NMHrbW7Dik9s="
     },
     "satelliteResources": {
       "en": {
-        "ActivosFiljos.Client.resources.fassm8eawx.wasm": "sha256-N9QyYA9DlBlzgQF6AZK7i0dWxVU1Y8W7fo0X6IFccDY="
+        "ActivosFiljos.Client.resources.f88vsywqta.wasm": "sha256-bx+3OgQ40EhvwHH/OJZbK0U0E6dbUtH9G8xPdNH0DNI="
       },
       "es-PA": {
-        "ActivosFiljos.Client.resources.k6101rnt8o.wasm": "sha256-BF2Xc0S0S73b5lGvEpATmL4AbiBhVoTtMtaw9XIIM/I="
+        "ActivosFiljos.Client.resources.20vjf3q7i1.wasm": "sha256-TiFQI/EGoRHOjcuPtB8Nd8YWgvEFNQUlqSNmQ0cfnZo="
       }
     }
   },

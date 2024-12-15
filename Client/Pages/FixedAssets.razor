@@ -32,7 +32,7 @@
                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="PurchaseCost" Title="Purchase Cost" FormatString="">
                 <Template Context="data">
-                    @($"{data.PurchaseCost:C}")
+                     @($"$ {data.PurchaseCost:N}")
                 </Template>
                 </RadzenDataGridColumn>
                 <RadzenDataGridColumn TItem="ActivosFiljos.Server.Models.FixedAssetsDB.FixedAsset" Property="AssetCategory.CategoryName" Title="Asset Category">
